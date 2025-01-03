@@ -16,5 +16,14 @@
     "completedOn": "2025-01-02 17:00:00 UTC",
     "updatedOn": "2025-01-02 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 2,
+    "slug": "#2-la-sucesion-de-fibonacci",
+    "name": "La sucesión de Fibonacci",
+    "difficulty": "hard",
+    "completedOn": "2025-01-03 17:00:00 UTC",
+    "updatedOn": "2025-01-03 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
