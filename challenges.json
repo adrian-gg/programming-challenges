@@ -25,5 +25,14 @@
     "completedOn": "2025-01-03 17:00:00 UTC",
     "updatedOn": "2025-01-03 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 3,
+    "slug": "#3-es-un-numero-primo",
+    "name": "¿Es un número primo?",
+    "difficulty": "medium",
+    "completedOn": "2025-01-04 17:00:00 UTC",
+    "updatedOn": "2025-01-04 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
