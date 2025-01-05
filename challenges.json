@@ -34,5 +34,14 @@
     "completedOn": "2025-01-04 17:00:00 UTC",
     "updatedOn": "2025-01-04 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 4,
+    "slug": "#4-area-de-un-poligono",
+    "name": "Área de un polígono",
+    "difficulty": "easy",
+    "completedOn": "2025-01-05 17:00:00 UTC",
+    "updatedOn": "2025-01-05 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
