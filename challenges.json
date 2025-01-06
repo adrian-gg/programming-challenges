@@ -43,5 +43,14 @@
     "completedOn": "2025-01-05 17:00:00 UTC",
     "updatedOn": "2025-01-05 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 5,
+    "slug": "#5-aspect-ratio",
+    "name": "Aspect ratio",
+    "difficulty": "easy",
+    "completedOn": "2025-01-06 17:00:00 UTC",
+    "updatedOn": "2025-01-06 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

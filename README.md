@@ -7,3 +7,4 @@
 | 2   | La sucesión de Fibonacci | 2025-01-03 |
 | 3   | ¿Es un número primo?     | 2025-01-04 |
 | 4   | Área de un polígono      | 2025-01-05 |
+| 5   | Aspect ratio             | 2025-01-06 |
