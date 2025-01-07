@@ -52,5 +52,14 @@
     "completedOn": "2025-01-06 17:00:00 UTC",
     "updatedOn": "2025-01-06 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 6,
+    "slug": "#6-invirtiendo-cadenas",
+    "name": "Invirtiendo cadenas",
+    "difficulty": "easy",
+    "completedOn": "2025-01-07 17:00:00 UTC",
+    "updatedOn": "2025-01-07 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
