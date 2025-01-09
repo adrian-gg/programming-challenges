@@ -9,4 +9,5 @@
 | 4   | Área de un polígono      | easy       | 2025-01-05 |
 | 5   | Aspect ratio             | easy       | 2025-01-06 |
 | 6   | Invirtiendo cadenas      | easy       | 2025-01-07 |
-| 7   | Contando palabras        | easy       | 2025-01-08 |
+| 7   | Contando palabras        | medium     | 2025-01-08 |
+| 8   | Entero a binario         | easy       | 2025-01-09 |
