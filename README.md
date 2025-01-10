@@ -11,3 +11,4 @@
 | 6   | Invirtiendo cadenas      | easy       | 2025-01-07 |
 | 7   | Contando palabras        | medium     | 2025-01-08 |
 | 8   | Entero a binario         | easy       | 2025-01-09 |
+| 9   | Código morse             | medium     | 2025-01-10 |

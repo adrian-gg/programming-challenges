@@ -79,5 +79,14 @@
     "completedOn": "2025-01-09 17:00:00 UTC",
     "updatedOn": "2025-01-09 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 9,
+    "slug": "#9-codigo-morse",
+    "name": "Código morse",
+    "difficulty": "medium",
+    "completedOn": "2025-01-10 17:00:00 UTC",
+    "updatedOn": "2025-01-10 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
