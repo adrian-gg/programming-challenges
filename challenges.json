@@ -88,5 +88,14 @@
     "completedOn": "2025-01-10 17:00:00 UTC",
     "updatedOn": "2025-01-10 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 10,
+    "slug": "#10-expresiones-equilibradas",
+    "name": "Expresiones equilibradas",
+    "difficulty": "medium",
+    "completedOn": "2025-01-11 17:00:00 UTC",
+    "updatedOn": "2025-01-11 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
