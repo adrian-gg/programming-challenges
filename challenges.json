@@ -97,5 +97,14 @@
     "completedOn": "2025-01-11 17:00:00 UTC",
     "updatedOn": "2025-01-11 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 11,
+    "slug": "#11-eliminando-caracteres",
+    "name": "Eliminando caracteres",
+    "difficulty": "easy",
+    "completedOn": "2025-01-12 17:00:00 UTC",
+    "updatedOn": "2025-01-12 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
