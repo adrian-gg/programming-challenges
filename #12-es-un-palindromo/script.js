@@ -15,7 +15,7 @@ function isPalindrome(text) {
     .toLowerCase()
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
-    .match(/(\w|[ñÑ])/g)
+    .match(/\w/g)
     .join("")
 
   return (
