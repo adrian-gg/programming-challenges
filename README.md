@@ -14,3 +14,4 @@
 | 9   | Código morse             | medium     | 2025-01-10 |
 | 10  | Expresiones equilibradas | medium     | 2025-01-11 |
 | 11  | Eliminando caracteres    | easy       | 2025-01-12 |
+| 12  | Es un palíndromo         | medium     | 2025-01-13 |

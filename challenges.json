@@ -106,5 +106,14 @@
     "completedOn": "2025-01-12 17:00:00 UTC",
     "updatedOn": "2025-01-12 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 12,
+    "slug": "#12-es-un-palindromo",
+    "name": "¿Es un palíndromo?",
+    "difficulty": "medium",
+    "completedOn": "2025-01-13 17:00:00 UTC",
+    "updatedOn": "2025-01-13 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
