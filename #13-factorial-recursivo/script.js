@@ -14,7 +14,7 @@ function factorial(num) {
 }
 
 console.log(factorial(0)) // 1
-console.log(factorial(7)) //720
-console.log(factorial(10)) //362888
+console.log(factorial(7)) //5040
+console.log(factorial(10)) //3628800
 console.log(factorial(1)) //1
 console.log(factorial(-1)) //No tiene factorial
