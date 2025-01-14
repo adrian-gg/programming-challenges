@@ -115,5 +115,14 @@
     "completedOn": "2025-01-13 17:00:00 UTC",
     "updatedOn": "2025-01-13 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 13,
+    "slug": "#13-factorial-recursivo",
+    "name": "Factorial recursivo",
+    "difficulty": "easy",
+    "completedOn": "2025-01-14 17:00:00 UTC",
+    "updatedOn": "2025-01-14 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
