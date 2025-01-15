@@ -124,5 +124,14 @@
     "completedOn": "2025-01-14 17:00:00 UTC",
     "updatedOn": "2025-01-14 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 14,
+    "slug": "#14-es-un-numero-armstrong",
+    "name": "¿Es un número Armstromg?",
+    "difficulty": "easy",
+    "completedOn": "2025-01-15 17:00:00 UTC",
+    "updatedOn": "2025-01-15 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

@@ -16,3 +16,4 @@
 | 11  | Eliminando caracteres    | easy       | 2025-01-12 |
 | 12  | Es un palíndromo         | medium     | 2025-01-13 |
 | 13  | Factorial recursivo      | easy       | 2025-01-14 |
+| 14  | ¿Es un número Armstromg? | easy       | 2025-01-15 |
