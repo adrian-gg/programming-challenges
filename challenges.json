@@ -133,5 +133,14 @@
     "completedOn": "2025-01-15 17:00:00 UTC",
     "updatedOn": "2025-01-15 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 15,
+    "slug": "#15-cuantos-dias",
+    "name": "¿Cuántos días?",
+    "difficulty": "hard",
+    "completedOn": "2025-01-16 17:00:00 UTC",
+    "updatedOn": "2025-01-16 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
