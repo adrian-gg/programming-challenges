@@ -151,5 +151,14 @@
     "completedOn": "2025-01-17 17:00:00 UTC",
     "updatedOn": "2025-01-17 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 17,
+    "slug": "#17-la-carrera-de-obstaculos",
+    "name": "La carrera de obstáculos",
+    "difficulty": "medium",
+    "completedOn": "2025-01-18 17:00:00 UTC",
+    "updatedOn": "2025-01-18 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

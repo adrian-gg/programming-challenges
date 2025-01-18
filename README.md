@@ -19,3 +19,4 @@
 | 14  | ¿Es un número Armstromg? | easy       | 2025-01-15 |
 | 15  | ¿Cuántos días?           | hard       | 2025-01-16 |
 | 16  | En mayúscula             | easy       | 2025-01-17 |
+| 17  | La carrera de obstáculos | medium     | 2025-01-18 |
