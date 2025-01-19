@@ -160,5 +160,14 @@
     "completedOn": "2025-01-18 17:00:00 UTC",
     "updatedOn": "2025-01-18 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 18,
+    "slug": "#18-tres-en-raya",
+    "name": "Tres en raya",
+    "difficulty": "medium",
+    "completedOn": "2025-01-19 17:00:00 UTC",
+    "updatedOn": "2025-01-19 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
