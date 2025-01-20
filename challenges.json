@@ -165,9 +165,18 @@
     "id": 18,
     "slug": "#18-tres-en-raya",
     "name": "Tres en raya",
-    "difficulty": "medium",
+    "difficulty": "hard",
     "completedOn": "2025-01-19 17:00:00 UTC",
     "updatedOn": "2025-01-19 17:00:00 UTC",
+    "tags": ["javascript"]
+  },
+  {
+    "id": 19,
+    "slug": "#19-conversor-tiempo",
+    "name": "Conversor tiempo",
+    "difficulty": "easy",
+    "completedOn": "2025-01-20 17:00:00 UTC",
+    "updatedOn": "2025-01-20 17:00:00 UTC",
     "tags": ["javascript"]
   }
 ]
