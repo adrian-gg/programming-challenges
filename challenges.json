@@ -178,5 +178,14 @@
     "completedOn": "2025-01-20 17:00:00 UTC",
     "updatedOn": "2025-01-20 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 20,
+    "slug": "#20-parando-el-tiempo",
+    "name": "Parando el tiempo",
+    "difficulty": "medium",
+    "completedOn": "2025-01-21 17:00:00 UTC",
+    "updatedOn": "2025-01-21 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
