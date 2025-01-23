@@ -24,3 +24,4 @@
 | 19  | Conversor tiempo         | easy       | 2025-01-20 |
 | 20  | Parando el tiempo        | medium     | 2025-01-21 |
 | 21  | Calculadora.txt          | medium     | 2025-01-22 |
+| 22  | Conjuntos                | easy       | 2025-01-23 |

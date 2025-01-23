@@ -196,5 +196,14 @@
     "completedOn": "2025-01-22 17:00:00 UTC",
     "updatedOn": "2025-01-22 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 22,
+    "slug": "#22-conjuntos",
+    "name": "Conjuntos",
+    "difficulty": "easy",
+    "completedOn": "2025-01-23 17:00:00 UTC",
+    "updatedOn": "2025-01-23 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
