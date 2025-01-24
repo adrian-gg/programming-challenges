@@ -205,5 +205,14 @@
     "completedOn": "2025-01-23 17:00:00 UTC",
     "updatedOn": "2025-01-23 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 23,
+    "slug": "#23-maximo-comun-divisor-y-minimo-comun-multiplo",
+    "name": "Máximo común divisor y mínimo común múltiplo",
+    "difficulty": "medium",
+    "completedOn": "2025-01-24 17:00:00 UTC",
+    "updatedOn": "2025-01-24 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
