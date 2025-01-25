@@ -214,5 +214,14 @@
     "completedOn": "2025-01-24 17:00:00 UTC",
     "updatedOn": "2025-01-24 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 24,
+    "slug": "#24-iterator-master",
+    "name": "Iterator master",
+    "difficulty": "medium",
+    "completedOn": "2025-01-25 17:00:00 UTC",
+    "updatedOn": "2025-01-25 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
