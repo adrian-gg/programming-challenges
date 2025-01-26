@@ -27,3 +27,4 @@
 | 22  | Conjuntos                                    | easy       | 2025-01-23 |
 | 23  | Máximo común divisor y mínimo común múltiplo | medium     | 2025-01-24 |
 | 24  | Iteration master                             | easy       | 2025-01-25 |
+| 25  | Piedra, papel, tijera                        | medium     | 2025-01-26 |

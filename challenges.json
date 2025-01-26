@@ -219,9 +219,18 @@
     "id": 24,
     "slug": "#24-iterator-master",
     "name": "Iterator master",
-    "difficulty": "medium",
+    "difficulty": "easy",
     "completedOn": "2025-01-25 17:00:00 UTC",
     "updatedOn": "2025-01-25 17:00:00 UTC",
+    "tags": ["javascript"]
+  },
+  {
+    "id": 25,
+    "slug": "#25-piedra-papel-tijera",
+    "name": "Piedra, papel, tijera",
+    "difficulty": "medium",
+    "completedOn": "2025-01-26 17:00:00 UTC",
+    "updatedOn": "2025-01-26 17:00:00 UTC",
     "tags": ["javascript"]
   }
 ]
