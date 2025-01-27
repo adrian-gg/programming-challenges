@@ -232,5 +232,14 @@
     "completedOn": "2025-01-26 17:00:00 UTC",
     "updatedOn": "2025-01-26 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 26,
+    "slug": "#26-cuadrado-y-triangulo-2d",
+    "name": "Cuadrado y triángulo 2D",
+    "difficulty": "easy",
+    "completedOn": "2025-01-27 17:00:00 UTC",
+    "updatedOn": "2025-01-27 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

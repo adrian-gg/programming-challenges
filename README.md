@@ -28,3 +28,4 @@
 | 23  | Máximo común divisor y mínimo común múltiplo | medium     | 2025-01-24 |
 | 24  | Iteration master                             | easy       | 2025-01-25 |
 | 25  | Piedra, papel, tijera                        | medium     | 2025-01-26 |
+| 26  | Cuadrado y triángulo 2D                      | easy       | 2025-01-27 |
