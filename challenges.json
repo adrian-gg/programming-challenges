@@ -250,5 +250,14 @@
     "completedOn": "2025-01-28 17:00:00 UTC",
     "updatedOn": "2025-01-28 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 28,
+    "slug": "#28-maquina-expendedora",
+    "name": "Máquina expendedora",
+    "difficulty": "easy",
+    "completedOn": "2025-01-29 17:00:00 UTC",
+    "updatedOn": "2025-01-29 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

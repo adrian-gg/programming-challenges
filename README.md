@@ -30,3 +30,4 @@
 | 25  | Piedra, papel, tijera                        | medium     | 2025-01-26 |
 | 26  | Cuadrado y triángulo 2D                      | easy       | 2025-01-27 |
 | 27  | Vectores ortogonales                         | easy       | 2025-01-28 |
+| 28  | Máquina expendedora                          | medium     | 2025-01-29 |
