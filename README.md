@@ -31,3 +31,4 @@
 | 26  | Cuadrado y triángulo 2D                      | easy       | 2025-01-27 |
 | 27  | Vectores ortogonales                         | easy       | 2025-01-28 |
 | 28  | Máquina expendedora                          | medium     | 2025-01-29 |
+| 29  | Orden de lista                               | easy       | 2025-01-30 |

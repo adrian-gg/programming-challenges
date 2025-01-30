@@ -255,9 +255,18 @@
     "id": 28,
     "slug": "#28-maquina-expendedora",
     "name": "Máquina expendedora",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "completedOn": "2025-01-29 17:00:00 UTC",
     "updatedOn": "2025-01-29 17:00:00 UTC",
+    "tags": ["javascript"]
+  },
+  {
+    "id": 29,
+    "slug": "#29-orden-de-lista",
+    "name": "Orden de lista",
+    "difficulty": "easy",
+    "completedOn": "2025-01-30 17:00:00 UTC",
+    "updatedOn": "2025-01-30 17:00:00 UTC",
     "tags": ["javascript"]
   }
 ]
