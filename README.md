@@ -32,3 +32,4 @@
 | 27  | Vectores ortogonales                         | easy       | 2025-01-28 |
 | 28  | Máquina expendedora                          | medium     | 2025-01-29 |
 | 29  | Orden de lista                               | easy       | 2025-01-30 |
+| 30  | Marco de palabras                            | easy       | 2025-01-31 |
