@@ -34,3 +34,4 @@
 | 29  | Orden de lista                               | easy       | 2025-01-30 |
 | 30  | Marco de palabras                            | easy       | 2025-01-31 |
 | 31  | Años bisiestos                               | easy       | 2025-02-01 |
+| 32  | El segundo                                   | easy       | 2025-02-02 |
