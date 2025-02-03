@@ -295,5 +295,14 @@
     "completedOn": "2025-02-02 17:00:00 UTC",
     "updatedOn": "2025-02-02 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 33,
+    "slug": "#33-ciclo-sexagenario-chino",
+    "name": "Ciclo sexagenario chino",
+    "difficulty": "medium",
+    "completedOn": "2025-02-03 17:00:00 UTC",
+    "updatedOn": "2025-02-03 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
