@@ -36,3 +36,4 @@
 | 31  | Años bisiestos                               | easy       | 2025-02-01 |
 | 32  | El segundo                                   | easy       | 2025-02-02 |
 | 33  | Ciclo sexagenario chino                      | medium     | 2025-02-03 |
+| 34  | Los números perdidos                         | easy       | 2025-02-04 |
