@@ -313,5 +313,14 @@
     "completedOn": "2025-02-04 17:00:00 UTC",
     "updatedOn": "2025-02-04 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 35,
+    "slug": "#35-batalla-pokemon",
+    "name": "Batalla Pokémon",
+    "difficulty": "medium",
+    "completedOn": "2025-02-05 17:00:00 UTC",
+    "updatedOn": "2025-02-05 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
