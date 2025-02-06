@@ -38,3 +38,4 @@
 | 33  | Ciclo sexagenario chino                      | medium     | 2025-02-03 |
 | 34  | Los números perdidos                         | easy       | 2025-02-04 |
 | 35  | Batalla Pokémon                              | medium     | 2025-02-05 |
+| 36  | Los anillos de poder                         | medium     | 2025-02-06 |
