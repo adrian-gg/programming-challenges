@@ -331,5 +331,14 @@
     "completedOn": "2025-02-06 17:00:00 UTC",
     "updatedOn": "2025-02-06 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 37,
+    "slug": "#37-los-lanzamientos-de-the-legend-of-zelda",
+    "name": "Los lanzamientos de The Legend of Zelda",
+    "difficulty": "medium",
+    "completedOn": "2025-02-07 17:00:00 UTC",
+    "updatedOn": "2025-02-07 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
