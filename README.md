@@ -40,3 +40,4 @@
 | 35  | Batalla Pokémon                              | medium     | 2025-02-05 |
 | 36  | Los anillos de poder                         | medium     | 2025-02-06 |
 | 37  | The Legend of Zelda                          | medium     | 2025-02-07 |
+| 38  | Binario a decimal                            | medium     | 2025-02-08 |

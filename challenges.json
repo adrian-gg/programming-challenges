@@ -340,5 +340,14 @@
     "completedOn": "2025-02-07 17:00:00 UTC",
     "updatedOn": "2025-02-07 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 38,
+    "slug": "#38-binario-a-decimal",
+    "name": "Binario a decimal",
+    "difficulty": "medium",
+    "completedOn": "2025-02-08 17:00:00 UTC",
+    "updatedOn": "2025-02-08 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
