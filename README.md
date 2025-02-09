@@ -41,3 +41,4 @@
 | 36  | Los anillos de poder                         | medium     | 2025-02-06 |
 | 37  | The Legend of Zelda                          | medium     | 2025-02-07 |
 | 38  | Binario a decimal                            | medium     | 2025-02-08 |
+| 39  | Top algoritmos: Quick sort                   | medium     | 2025-02-09 |

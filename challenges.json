@@ -349,5 +349,14 @@
     "completedOn": "2025-02-08 17:00:00 UTC",
     "updatedOn": "2025-02-08 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 39,
+    "slug": "#39-top-algoritmos-quick-sort",
+    "name": "Top algoritmos: Quick sort",
+    "difficulty": "medium",
+    "completedOn": "2025-02-09 17:00:00 UTC",
+    "updatedOn": "2025-02-09 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
