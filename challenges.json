@@ -358,5 +358,14 @@
     "completedOn": "2025-02-09 17:00:00 UTC",
     "updatedOn": "2025-02-09 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 40,
+    "slug": "#40-el-triangulo-de-pascal",
+    "name": "El triángulo de pascal",
+    "difficulty": "medium",
+    "completedOn": "2025-02-10 17:00:00 UTC",
+    "updatedOn": "2025-02-10 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
