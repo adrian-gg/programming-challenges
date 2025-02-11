@@ -367,5 +367,14 @@
     "completedOn": "2025-02-10 17:00:00 UTC",
     "updatedOn": "2025-02-10 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 41,
+    "slug": "#41-la-ley-de-ohm",
+    "name": "La ley de Ohm",
+    "difficulty": "easy",
+    "completedOn": "2025-02-11 17:00:00 UTC",
+    "updatedOn": "2025-02-11 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
