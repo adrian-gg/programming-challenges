@@ -376,5 +376,14 @@
     "completedOn": "2025-02-11 17:00:00 UTC",
     "updatedOn": "2025-02-11 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 42,
+    "slug": "#42-conversor-de-temperatura",
+    "name": "Conversor de temperatura",
+    "difficulty": "easy",
+    "completedOn": "2025-02-12 17:00:00 UTC",
+    "updatedOn": "2025-02-12 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
