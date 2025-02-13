@@ -45,3 +45,4 @@
 | 40  | El triángulo de pascal                       | medium     | 2025-02-10 |
 | 41  | La ley de Ohm                                | easy       | 2025-02-11 |
 | 42  | Conversor de temperatura                     | easy       | 2025-02-12 |
+| 43  | Truco o trato                                | easy       | 2025-02-13 |
