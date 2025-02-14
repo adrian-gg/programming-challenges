@@ -394,5 +394,14 @@
     "completedOn": "2025-02-13 17:00:00 UTC",
     "updatedOn": "2025-02-13 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 44,
+    "slug": "#44-bumeranes",
+    "name": "Bumeranes",
+    "difficulty": "easy",
+    "completedOn": "2025-02-14 17:00:00 UTC",
+    "updatedOn": "2025-02-14 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
