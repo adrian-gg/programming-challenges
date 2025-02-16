@@ -48,3 +48,4 @@
 | 43  | Truco o trato                                | easy       | 2025-02-13 |
 | 44  | Bumeranes                                    | easy       | 2025-02-14 |
 | 45  | Contenedor de agua                           | medium     | 2025-02-15 |
+| 46  | ¿Dónde está el robot?                        | medium     | 2025-02-16 |

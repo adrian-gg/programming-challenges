@@ -412,5 +412,14 @@
     "completedOn": "2025-02-15 17:00:00 UTC",
     "updatedOn": "2025-02-15 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 46,
+    "slug": "#46-donde-esta-el-robot",
+    "name": "¿Dónde está el robot?",
+    "difficulty": "medium",
+    "completedOn": "2025-02-16 17:00:00 UTC",
+    "updatedOn": "2025-02-16 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
