@@ -421,5 +421,14 @@
     "completedOn": "2025-02-16 17:00:00 UTC",
     "updatedOn": "2025-02-16 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 47,
+    "slug": "#47-vocal-mas-comun",
+    "name": "Vocal más común",
+    "difficulty": "easy",
+    "completedOn": "2025-02-17 17:00:00 UTC",
+    "updatedOn": "2025-02-17 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
