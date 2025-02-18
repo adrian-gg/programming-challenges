@@ -50,3 +50,4 @@
 | 45  | Contenedor de agua                           | medium     | 2025-02-15 |
 | 46  | ¿Dónde está el robot?                        | medium     | 2025-02-16 |
 | 47  | Vocal más común                              | easy       | 2025-02-17 |
+| 48  | El calendario de adviento                    | easy       | 2025-02-18 |

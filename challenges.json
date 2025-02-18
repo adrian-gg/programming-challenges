@@ -430,5 +430,14 @@
     "completedOn": "2025-02-17 17:00:00 UTC",
     "updatedOn": "2025-02-17 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 48,
+    "slug": "#48-el-calendario-de-adviento",
+    "name": "El calendario de adviento",
+    "difficulty": "easy",
+    "completedOn": "2025-02-18 17:00:00 UTC",
+    "updatedOn": "2025-02-18 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
