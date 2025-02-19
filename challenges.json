@@ -439,5 +439,14 @@
     "completedOn": "2025-02-18 17:00:00 UTC",
     "updatedOn": "2025-02-18 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 49,
+    "slug": "#49-el-detector-de-handles",
+    "name": "El detector de handles",
+    "difficulty": "easy",
+    "completedOn": "2025-02-19 17:00:00 UTC",
+    "updatedOn": "2025-02-19 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

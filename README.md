@@ -51,3 +51,4 @@
 | 46  | ¿Dónde está el robot?                        | medium     | 2025-02-16 |
 | 47  | Vocal más común                              | easy       | 2025-02-17 |
 | 48  | El calendario de adviento                    | easy       | 2025-02-18 |
+| 49  | El detector de handles                       | easy       | 2025-02-19 |
