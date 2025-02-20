@@ -448,5 +448,14 @@
     "completedOn": "2025-02-19 17:00:00 UTC",
     "updatedOn": "2025-02-19 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 50,
+    "slug": "#50-la-encriptacion-de-karaca",
+    "name": "La encriptación de Karaca",
+    "difficulty": "easy",
+    "completedOn": "2025-02-20 17:00:00 UTC",
+    "updatedOn": "2025-02-20 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
