@@ -53,3 +53,4 @@
 | 48  | El calendario de adviento                    | easy       | 2025-02-18 |
 | 49  | El detector de handles                       | easy       | 2025-02-19 |
 | 50  | La encriptación de Karaca                    | easy       | 2025-02-20 |
+| 51  | El reto random                               | ?          | 2025-02-21 |
