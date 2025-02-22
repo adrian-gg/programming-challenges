@@ -466,5 +466,14 @@
     "completedOn": "2025-02-21 17:00:00 UTC",
     "updatedOn": "2025-02-21 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 52,
+    "slug": "#52-el-famoso-fizz-buzz-v2",
+    "name": "El famoso Fizz Buzz V2",
+    "difficulty": "easy",
+    "completedOn": "2025-02-22 17:00:00 UTC",
+    "updatedOn": "2025-02-22 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
