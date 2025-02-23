@@ -475,5 +475,14 @@
     "completedOn": "2025-02-22 17:00:00 UTC",
     "updatedOn": "2025-02-22 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 53,
+    "slug": "#53-el-lenguaje-hacker",
+    "name": "El lenguaje hacker",
+    "difficulty": "easy",
+    "completedOn": "2025-02-23 17:00:00 UTC",
+    "updatedOn": "2025-02-23 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
