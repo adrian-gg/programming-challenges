@@ -484,5 +484,14 @@
     "completedOn": "2025-02-23 17:00:00 UTC",
     "updatedOn": "2025-02-23 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 54,
+    "slug": "#54-el-partido-de-tenis",
+    "name": "El partido de tenis",
+    "difficulty": "medium",
+    "completedOn": "2025-02-24 17:00:00 UTC",
+    "updatedOn": "2025-02-24 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

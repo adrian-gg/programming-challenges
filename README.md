@@ -56,3 +56,4 @@
 | 51  | El reto random                               | ?          | 2025-02-21 |
 | 52  | El famosos Fizz Buzz V2                      | easy       | 2025-02-22 |
 | 53  | El lenguaje hacker                           | easy       | 2025-02-23 |
+| 54  | El partido de tenis                          | medium     | 2025-02-24 |
