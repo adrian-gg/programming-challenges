@@ -502,5 +502,14 @@
     "completedOn": "2025-02-25 17:00:00 UTC",
     "updatedOn": "2025-02-25 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 56,
+    "slug": "#56-primo-fibonacci-y-par",
+    "name": "Primo, fibonacci y par",
+    "difficulty": "medium",
+    "completedOn": "2025-02-26 17:00:00 UTC",
+    "updatedOn": "2025-02-26 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
