@@ -59,3 +59,4 @@
 | 54  | El partido de tenis                          | medium     | 2025-02-24 |
 | 55  | El generador de contraseñas                  | medium     | 2025-02-25 |
 | 56  | Primo, fibonacci y par                       | medium     | 2025-02-26 |
+| 57  | Hola mundo                                   | easy       | 2025-02-27 |
