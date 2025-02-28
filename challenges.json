@@ -554,5 +554,14 @@
       "visualbasic",
       "zig"
     ]
+  },
+  {
+    "id": 58,
+    "slug": "#58-piedra-papel-tijera-lagarto-spock",
+    "name": "Piedra, papel, tijera, lagarto, spock",
+    "difficulty": "medium",
+    "completedOn": "2025-02-28 17:00:00 UTC",
+    "updatedOn": "2025-02-28 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
