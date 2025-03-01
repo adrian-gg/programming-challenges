@@ -1,567 +1,576 @@
 [
-  {
-    "id": 0,
-    "slug": "#0-el-famoso-fizz-buzz",
-    "name": "El famoso Fizz Buzz",
-    "difficulty": "easy",
-    "completedOn": "2025-01-01 17:00:00 UTC",
-    "updatedOn": "2025-01-01 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 1,
-    "slug": "#1-es-un-anagrama",
-    "name": "¿Es un anagrama?",
-    "difficulty": "medium",
-    "completedOn": "2025-01-02 17:00:00 UTC",
-    "updatedOn": "2025-01-02 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 2,
-    "slug": "#2-la-sucesion-de-fibonacci",
-    "name": "La sucesión de Fibonacci",
-    "difficulty": "hard",
-    "completedOn": "2025-01-03 17:00:00 UTC",
-    "updatedOn": "2025-01-03 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 3,
-    "slug": "#3-es-un-numero-primo",
-    "name": "¿Es un número primo?",
-    "difficulty": "medium",
-    "completedOn": "2025-01-04 17:00:00 UTC",
-    "updatedOn": "2025-01-04 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 4,
-    "slug": "#4-area-de-un-poligono",
-    "name": "Área de un polígono",
-    "difficulty": "easy",
-    "completedOn": "2025-01-05 17:00:00 UTC",
-    "updatedOn": "2025-01-05 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 5,
-    "slug": "#5-aspect-ratio",
-    "name": "Aspect ratio",
-    "difficulty": "easy",
-    "completedOn": "2025-01-06 17:00:00 UTC",
-    "updatedOn": "2025-01-06 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 6,
-    "slug": "#6-invirtiendo-cadenas",
-    "name": "Invirtiendo cadenas",
-    "difficulty": "easy",
-    "completedOn": "2025-01-07 17:00:00 UTC",
-    "updatedOn": "2025-01-07 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 7,
-    "slug": "#7-contando-palabras",
-    "name": "Contando palabras",
-    "difficulty": "medium",
-    "completedOn": "2025-01-08 17:00:00 UTC",
-    "updatedOn": "2025-01-08 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 8,
-    "slug": "#8-decimal-a-binario",
-    "name": "Decimal a binario",
-    "difficulty": "easy",
-    "completedOn": "2025-01-09 17:00:00 UTC",
-    "updatedOn": "2025-01-09 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 9,
-    "slug": "#9-codigo-morse",
-    "name": "Código morse",
-    "difficulty": "medium",
-    "completedOn": "2025-01-10 17:00:00 UTC",
-    "updatedOn": "2025-01-10 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 10,
-    "slug": "#10-expresiones-equilibradas",
-    "name": "Expresiones equilibradas",
-    "difficulty": "medium",
-    "completedOn": "2025-01-11 17:00:00 UTC",
-    "updatedOn": "2025-01-11 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 11,
-    "slug": "#11-eliminando-caracteres",
-    "name": "Eliminando caracteres",
-    "difficulty": "easy",
-    "completedOn": "2025-01-12 17:00:00 UTC",
-    "updatedOn": "2025-01-12 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 12,
-    "slug": "#12-es-un-palindromo",
-    "name": "¿Es un palíndromo?",
-    "difficulty": "medium",
-    "completedOn": "2025-01-13 17:00:00 UTC",
-    "updatedOn": "2025-01-13 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 13,
-    "slug": "#13-factorial-recursivo",
-    "name": "Factorial recursivo",
-    "difficulty": "easy",
-    "completedOn": "2025-01-14 17:00:00 UTC",
-    "updatedOn": "2025-01-14 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 14,
-    "slug": "#14-es-un-numero-armstrong",
-    "name": "¿Es un número Armstromg?",
-    "difficulty": "easy",
-    "completedOn": "2025-01-15 17:00:00 UTC",
-    "updatedOn": "2025-01-15 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 15,
-    "slug": "#15-cuantos-dias",
-    "name": "¿Cuántos días?",
-    "difficulty": "hard",
-    "completedOn": "2025-01-16 17:00:00 UTC",
-    "updatedOn": "2025-01-16 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 16,
-    "slug": "#16-en-mayuscula",
-    "name": "En mayúscula",
-    "difficulty": "easy",
-    "completedOn": "2025-01-17 17:00:00 UTC",
-    "updatedOn": "2025-01-17 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 17,
-    "slug": "#17-la-carrera-de-obstaculos",
-    "name": "La carrera de obstáculos",
-    "difficulty": "medium",
-    "completedOn": "2025-01-18 17:00:00 UTC",
-    "updatedOn": "2025-01-18 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 18,
-    "slug": "#18-tres-en-raya",
-    "name": "Tres en raya",
-    "difficulty": "hard",
-    "completedOn": "2025-01-19 17:00:00 UTC",
-    "updatedOn": "2025-01-19 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 19,
-    "slug": "#19-conversor-tiempo",
-    "name": "Conversor tiempo",
-    "difficulty": "easy",
-    "completedOn": "2025-01-20 17:00:00 UTC",
-    "updatedOn": "2025-01-20 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 20,
-    "slug": "#20-parando-el-tiempo",
-    "name": "Parando el tiempo",
-    "difficulty": "medium",
-    "completedOn": "2025-01-21 17:00:00 UTC",
-    "updatedOn": "2025-01-21 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 21,
-    "slug": "#21-calculadora-txt",
-    "name": "Calculadora.txt",
-    "difficulty": "medium",
-    "completedOn": "2025-01-22 17:00:00 UTC",
-    "updatedOn": "2025-01-22 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 22,
-    "slug": "#22-conjuntos",
-    "name": "Conjuntos",
-    "difficulty": "easy",
-    "completedOn": "2025-01-23 17:00:00 UTC",
-    "updatedOn": "2025-01-23 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 23,
-    "slug": "#23-maximo-comun-divisor-y-minimo-comun-multiplo",
-    "name": "Máximo común divisor y mínimo común múltiplo",
-    "difficulty": "medium",
-    "completedOn": "2025-01-24 17:00:00 UTC",
-    "updatedOn": "2025-01-24 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 24,
-    "slug": "#24-iterator-master",
-    "name": "Iterator master",
-    "difficulty": "easy",
-    "completedOn": "2025-01-25 17:00:00 UTC",
-    "updatedOn": "2025-01-25 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 25,
-    "slug": "#25-piedra-papel-tijera",
-    "name": "Piedra, papel, tijera",
-    "difficulty": "medium",
-    "completedOn": "2025-01-26 17:00:00 UTC",
-    "updatedOn": "2025-01-26 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 26,
-    "slug": "#26-cuadrado-y-triangulo-2d",
-    "name": "Cuadrado y triángulo 2D",
-    "difficulty": "easy",
-    "completedOn": "2025-01-27 17:00:00 UTC",
-    "updatedOn": "2025-01-27 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 27,
-    "slug": "#27-vectores-ortogonales",
-    "name": "Vectores ortogonales",
-    "difficulty": "easy",
-    "completedOn": "2025-01-28 17:00:00 UTC",
-    "updatedOn": "2025-01-28 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 28,
-    "slug": "#28-maquina-expendedora",
-    "name": "Máquina expendedora",
-    "difficulty": "medium",
-    "completedOn": "2025-01-29 17:00:00 UTC",
-    "updatedOn": "2025-01-29 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 29,
-    "slug": "#29-orden-de-lista",
-    "name": "Orden de lista",
-    "difficulty": "easy",
-    "completedOn": "2025-01-30 17:00:00 UTC",
-    "updatedOn": "2025-01-30 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 30,
-    "slug": "#30-marco-de-palabras",
-    "name": "Marco de palabras",
-    "difficulty": "easy",
-    "completedOn": "2025-01-31 17:00:00 UTC",
-    "updatedOn": "2025-01-31 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 31,
-    "slug": "#31-años-bisiestos",
-    "name": "Años bisiestos",
-    "difficulty": "easy",
-    "completedOn": "2025-02-01 17:00:00 UTC",
-    "updatedOn": "2025-02-01 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 32,
-    "slug": "#32-el-segundo",
-    "name": "El segundo",
-    "difficulty": "easy",
-    "completedOn": "2025-02-02 17:00:00 UTC",
-    "updatedOn": "2025-02-02 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 33,
-    "slug": "#33-ciclo-sexagenario-chino",
-    "name": "Ciclo sexagenario chino",
-    "difficulty": "medium",
-    "completedOn": "2025-02-03 17:00:00 UTC",
-    "updatedOn": "2025-02-03 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 34,
-    "slug": "#34-los-numeros-perdidos",
-    "name": "Los números perdidos",
-    "difficulty": "easy",
-    "completedOn": "2025-02-04 17:00:00 UTC",
-    "updatedOn": "2025-02-04 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 35,
-    "slug": "#35-batalla-pokemon",
-    "name": "Batalla Pokémon",
-    "difficulty": "medium",
-    "completedOn": "2025-02-05 17:00:00 UTC",
-    "updatedOn": "2025-02-05 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 36,
-    "slug": "#36-los-anillos-de-poder",
-    "name": "Los anillos de poder",
-    "difficulty": "medium",
-    "completedOn": "2025-02-06 17:00:00 UTC",
-    "updatedOn": "2025-02-06 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 37,
-    "slug": "#37-los-lanzamientos-de-the-legend-of-zelda",
-    "name": "Los lanzamientos de The Legend of Zelda",
-    "difficulty": "medium",
-    "completedOn": "2025-02-07 17:00:00 UTC",
-    "updatedOn": "2025-02-07 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 38,
-    "slug": "#38-binario-a-decimal",
-    "name": "Binario a decimal",
-    "difficulty": "medium",
-    "completedOn": "2025-02-08 17:00:00 UTC",
-    "updatedOn": "2025-02-08 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 39,
-    "slug": "#39-top-algoritmos-quick-sort",
-    "name": "Top algoritmos: Quick sort",
-    "difficulty": "medium",
-    "completedOn": "2025-02-09 17:00:00 UTC",
-    "updatedOn": "2025-02-09 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 40,
-    "slug": "#40-el-triangulo-de-pascal",
-    "name": "El triángulo de pascal",
-    "difficulty": "medium",
-    "completedOn": "2025-02-10 17:00:00 UTC",
-    "updatedOn": "2025-02-10 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 41,
-    "slug": "#41-la-ley-de-ohm",
-    "name": "La ley de Ohm",
-    "difficulty": "easy",
-    "completedOn": "2025-02-11 17:00:00 UTC",
-    "updatedOn": "2025-02-11 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 42,
-    "slug": "#42-conversor-de-temperatura",
-    "name": "Conversor de temperatura",
-    "difficulty": "easy",
-    "completedOn": "2025-02-12 17:00:00 UTC",
-    "updatedOn": "2025-02-12 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 43,
-    "slug": "#43-truco-o-trato",
-    "name": "Truco o trato",
-    "difficulty": "easy",
-    "completedOn": "2025-02-13 17:00:00 UTC",
-    "updatedOn": "2025-02-13 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 44,
-    "slug": "#44-bumeranes",
-    "name": "Bumeranes",
-    "difficulty": "easy",
-    "completedOn": "2025-02-14 17:00:00 UTC",
-    "updatedOn": "2025-02-14 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 45,
-    "slug": "#45-contenedor-de-agua",
-    "name": "Contenedor de agua",
-    "difficulty": "medium",
-    "completedOn": "2025-02-15 17:00:00 UTC",
-    "updatedOn": "2025-02-15 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 46,
-    "slug": "#46-donde-esta-el-robot",
-    "name": "¿Dónde está el robot?",
-    "difficulty": "medium",
-    "completedOn": "2025-02-16 17:00:00 UTC",
-    "updatedOn": "2025-02-16 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 47,
-    "slug": "#47-vocal-mas-comun",
-    "name": "Vocal más común",
-    "difficulty": "easy",
-    "completedOn": "2025-02-17 17:00:00 UTC",
-    "updatedOn": "2025-02-17 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 48,
-    "slug": "#48-el-calendario-de-adviento",
-    "name": "El calendario de adviento",
-    "difficulty": "easy",
-    "completedOn": "2025-02-18 17:00:00 UTC",
-    "updatedOn": "2025-02-18 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 49,
-    "slug": "#49-el-detector-de-handles",
-    "name": "El detector de handles",
-    "difficulty": "easy",
-    "completedOn": "2025-02-19 17:00:00 UTC",
-    "updatedOn": "2025-02-19 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 50,
-    "slug": "#50-la-encriptacion-de-karaca",
-    "name": "La encriptación de Karaca",
-    "difficulty": "easy",
-    "completedOn": "2025-02-20 17:00:00 UTC",
-    "updatedOn": "2025-02-20 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 51,
-    "slug": "#51-el-reto-random",
-    "name": "El reto random",
-    "difficulty": "?",
-    "completedOn": "2025-02-21 17:00:00 UTC",
-    "updatedOn": "2025-02-21 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 52,
-    "slug": "#52-el-famoso-fizz-buzz-v2",
-    "name": "El famoso Fizz Buzz V2",
-    "difficulty": "easy",
-    "completedOn": "2025-02-22 17:00:00 UTC",
-    "updatedOn": "2025-02-22 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 53,
-    "slug": "#53-el-lenguaje-hacker",
-    "name": "El lenguaje hacker",
-    "difficulty": "easy",
-    "completedOn": "2025-02-23 17:00:00 UTC",
-    "updatedOn": "2025-02-23 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 54,
-    "slug": "#54-el-partido-de-tenis",
-    "name": "El partido de tenis",
-    "difficulty": "medium",
-    "completedOn": "2025-02-24 17:00:00 UTC",
-    "updatedOn": "2025-02-24 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 55,
-    "slug": "#55-el-generador-de-contraseñas",
-    "name": "El generador de contraseñas",
-    "difficulty": "medium",
-    "completedOn": "2025-02-25 17:00:00 UTC",
-    "updatedOn": "2025-02-25 17:00:00 UTC",
-    "tags": ["javascript"]
-  },
-  {
-    "id": 57,
-    "slug": "#57-hola-mundo",
-    "name": "Hola mundo",
-    "difficulty": "easy",
-    "completedOn": "2025-02-27 17:00:00 UTC",
-    "updatedOn": "2025-02-27 17:00:00 UTC",
-    "tags": [
-      "ada",
-      "apex",
-      "assembly",
-      "batch",
-      "c#",
-      "c++",
-      "c",
-      "clojure",
-      "cobol",
-      "crystal",
-      "dart",
-      "delphi",
-      "elixir",
-      "erlang",
-      "f#",
-      "haskell",
-      "java",
-      "javascript",
-      "julia",
-      "fortran",
-      "go",
-      "groovy",
-      "kotlin",
-      "lisp",
-      "lua",
-      "matlab",
-      "nim",
-      "objective-c",
-      "ocaml",
-      "perl",
-      "php",
-      "powersell",
-      "prolog",
-      "python",
-      "r",
-      "rust",
-      "scala",
-      "sql",
-      "swift",
-      "typescript",
-      "visualbasic",
-      "zig"
-    ]
-  },
-  {
-    "id": 58,
-    "slug": "#58-piedra-papel-tijera-lagarto-spock",
-    "name": "Piedra, papel, tijera, lagarto, spock",
-    "difficulty": "medium",
-    "completedOn": "2025-02-28 17:00:00 UTC",
-    "updatedOn": "2025-02-28 17:00:00 UTC",
-    "tags": ["javascript"]
-  }
-]
+    {
+      "id": 0,
+      "slug": "#0-el-famoso-fizz-buzz",
+      "name": "El famoso Fizz Buzz",
+      "difficulty": "easy",
+      "completedOn": "2025-01-01 17:00:00 UTC",
+      "updatedOn": "2025-01-01 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 1,
+      "slug": "#1-es-un-anagrama",
+      "name": "¿Es un anagrama?",
+      "difficulty": "medium",
+      "completedOn": "2025-01-02 17:00:00 UTC",
+      "updatedOn": "2025-01-02 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 2,
+      "slug": "#2-la-sucesion-de-fibonacci",
+      "name": "La sucesión de Fibonacci",
+      "difficulty": "hard",
+      "completedOn": "2025-01-03 17:00:00 UTC",
+      "updatedOn": "2025-01-03 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 3,
+      "slug": "#3-es-un-numero-primo",
+      "name": "¿Es un número primo?",
+      "difficulty": "medium",
+      "completedOn": "2025-01-04 17:00:00 UTC",
+      "updatedOn": "2025-01-04 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 4,
+      "slug": "#4-area-de-un-poligono",
+      "name": "Área de un polígono",
+      "difficulty": "easy",
+      "completedOn": "2025-01-05 17:00:00 UTC",
+      "updatedOn": "2025-01-05 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 5,
+      "slug": "#5-aspect-ratio",
+      "name": "Aspect ratio",
+      "difficulty": "easy",
+      "completedOn": "2025-01-06 17:00:00 UTC",
+      "updatedOn": "2025-01-06 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 6,
+      "slug": "#6-invirtiendo-cadenas",
+      "name": "Invirtiendo cadenas",
+      "difficulty": "easy",
+      "completedOn": "2025-01-07 17:00:00 UTC",
+      "updatedOn": "2025-01-07 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 7,
+      "slug": "#7-contando-palabras",
+      "name": "Contando palabras",
+      "difficulty": "medium",
+      "completedOn": "2025-01-08 17:00:00 UTC",
+      "updatedOn": "2025-01-08 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 8,
+      "slug": "#8-decimal-a-binario",
+      "name": "Decimal a binario",
+      "difficulty": "easy",
+      "completedOn": "2025-01-09 17:00:00 UTC",
+      "updatedOn": "2025-01-09 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 9,
+      "slug": "#9-codigo-morse",
+      "name": "Código morse",
+      "difficulty": "medium",
+      "completedOn": "2025-01-10 17:00:00 UTC",
+      "updatedOn": "2025-01-10 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 10,
+      "slug": "#10-expresiones-equilibradas",
+      "name": "Expresiones equilibradas",
+      "difficulty": "medium",
+      "completedOn": "2025-01-11 17:00:00 UTC",
+      "updatedOn": "2025-01-11 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 11,
+      "slug": "#11-eliminando-caracteres",
+      "name": "Eliminando caracteres",
+      "difficulty": "easy",
+      "completedOn": "2025-01-12 17:00:00 UTC",
+      "updatedOn": "2025-01-12 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 12,
+      "slug": "#12-es-un-palindromo",
+      "name": "¿Es un palíndromo?",
+      "difficulty": "medium",
+      "completedOn": "2025-01-13 17:00:00 UTC",
+      "updatedOn": "2025-01-13 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 13,
+      "slug": "#13-factorial-recursivo",
+      "name": "Factorial recursivo",
+      "difficulty": "easy",
+      "completedOn": "2025-01-14 17:00:00 UTC",
+      "updatedOn": "2025-01-14 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 14,
+      "slug": "#14-es-un-numero-armstrong",
+      "name": "¿Es un número Armstromg?",
+      "difficulty": "easy",
+      "completedOn": "2025-01-15 17:00:00 UTC",
+      "updatedOn": "2025-01-15 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 15,
+      "slug": "#15-cuantos-dias",
+      "name": "¿Cuántos días?",
+      "difficulty": "hard",
+      "completedOn": "2025-01-16 17:00:00 UTC",
+      "updatedOn": "2025-01-16 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 16,
+      "slug": "#16-en-mayuscula",
+      "name": "En mayúscula",
+      "difficulty": "easy",
+      "completedOn": "2025-01-17 17:00:00 UTC",
+      "updatedOn": "2025-01-17 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 17,
+      "slug": "#17-la-carrera-de-obstaculos",
+      "name": "La carrera de obstáculos",
+      "difficulty": "medium",
+      "completedOn": "2025-01-18 17:00:00 UTC",
+      "updatedOn": "2025-01-18 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 18,
+      "slug": "#18-tres-en-raya",
+      "name": "Tres en raya",
+      "difficulty": "hard",
+      "completedOn": "2025-01-19 17:00:00 UTC",
+      "updatedOn": "2025-01-19 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 19,
+      "slug": "#19-conversor-tiempo",
+      "name": "Conversor tiempo",
+      "difficulty": "easy",
+      "completedOn": "2025-01-20 17:00:00 UTC",
+      "updatedOn": "2025-01-20 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 20,
+      "slug": "#20-parando-el-tiempo",
+      "name": "Parando el tiempo",
+      "difficulty": "medium",
+      "completedOn": "2025-01-21 17:00:00 UTC",
+      "updatedOn": "2025-01-21 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 21,
+      "slug": "#21-calculadora-txt",
+      "name": "Calculadora.txt",
+      "difficulty": "medium",
+      "completedOn": "2025-01-22 17:00:00 UTC",
+      "updatedOn": "2025-01-22 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 22,
+      "slug": "#22-conjuntos",
+      "name": "Conjuntos",
+      "difficulty": "easy",
+      "completedOn": "2025-01-23 17:00:00 UTC",
+      "updatedOn": "2025-01-23 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 23,
+      "slug": "#23-maximo-comun-divisor-y-minimo-comun-multiplo",
+      "name": "Máximo común divisor y mínimo común múltiplo",
+      "difficulty": "medium",
+      "completedOn": "2025-01-24 17:00:00 UTC",
+      "updatedOn": "2025-01-24 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 24,
+      "slug": "#24-iterator-master",
+      "name": "Iterator master",
+      "difficulty": "easy",
+      "completedOn": "2025-01-25 17:00:00 UTC",
+      "updatedOn": "2025-01-25 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 25,
+      "slug": "#25-piedra-papel-tijera",
+      "name": "Piedra, papel, tijera",
+      "difficulty": "medium",
+      "completedOn": "2025-01-26 17:00:00 UTC",
+      "updatedOn": "2025-01-26 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 26,
+      "slug": "#26-cuadrado-y-triangulo-2d",
+      "name": "Cuadrado y triángulo 2D",
+      "difficulty": "easy",
+      "completedOn": "2025-01-27 17:00:00 UTC",
+      "updatedOn": "2025-01-27 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 27,
+      "slug": "#27-vectores-ortogonales",
+      "name": "Vectores ortogonales",
+      "difficulty": "easy",
+      "completedOn": "2025-01-28 17:00:00 UTC",
+      "updatedOn": "2025-01-28 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 28,
+      "slug": "#28-maquina-expendedora",
+      "name": "Máquina expendedora",
+      "difficulty": "medium",
+      "completedOn": "2025-01-29 17:00:00 UTC",
+      "updatedOn": "2025-01-29 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 29,
+      "slug": "#29-orden-de-lista",
+      "name": "Orden de lista",
+      "difficulty": "easy",
+      "completedOn": "2025-01-30 17:00:00 UTC",
+      "updatedOn": "2025-01-30 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 30,
+      "slug": "#30-marco-de-palabras",
+      "name": "Marco de palabras",
+      "difficulty": "easy",
+      "completedOn": "2025-01-31 17:00:00 UTC",
+      "updatedOn": "2025-01-31 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 31,
+      "slug": "#31-años-bisiestos",
+      "name": "Años bisiestos",
+      "difficulty": "easy",
+      "completedOn": "2025-02-01 17:00:00 UTC",
+      "updatedOn": "2025-02-01 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 32,
+      "slug": "#32-el-segundo",
+      "name": "El segundo",
+      "difficulty": "easy",
+      "completedOn": "2025-02-02 17:00:00 UTC",
+      "updatedOn": "2025-02-02 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 33,
+      "slug": "#33-ciclo-sexagenario-chino",
+      "name": "Ciclo sexagenario chino",
+      "difficulty": "medium",
+      "completedOn": "2025-02-03 17:00:00 UTC",
+      "updatedOn": "2025-02-03 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 34,
+      "slug": "#34-los-numeros-perdidos",
+      "name": "Los números perdidos",
+      "difficulty": "easy",
+      "completedOn": "2025-02-04 17:00:00 UTC",
+      "updatedOn": "2025-02-04 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 35,
+      "slug": "#35-batalla-pokemon",
+      "name": "Batalla Pokémon",
+      "difficulty": "medium",
+      "completedOn": "2025-02-05 17:00:00 UTC",
+      "updatedOn": "2025-02-05 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 36,
+      "slug": "#36-los-anillos-de-poder",
+      "name": "Los anillos de poder",
+      "difficulty": "medium",
+      "completedOn": "2025-02-06 17:00:00 UTC",
+      "updatedOn": "2025-02-06 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 37,
+      "slug": "#37-los-lanzamientos-de-the-legend-of-zelda",
+      "name": "Los lanzamientos de The Legend of Zelda",
+      "difficulty": "medium",
+      "completedOn": "2025-02-07 17:00:00 UTC",
+      "updatedOn": "2025-02-07 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 38,
+      "slug": "#38-binario-a-decimal",
+      "name": "Binario a decimal",
+      "difficulty": "medium",
+      "completedOn": "2025-02-08 17:00:00 UTC",
+      "updatedOn": "2025-02-08 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 39,
+      "slug": "#39-top-algoritmos-quick-sort",
+      "name": "Top algoritmos: Quick sort",
+      "difficulty": "medium",
+      "completedOn": "2025-02-09 17:00:00 UTC",
+      "updatedOn": "2025-02-09 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 40,
+      "slug": "#40-el-triangulo-de-pascal",
+      "name": "El triángulo de pascal",
+      "difficulty": "medium",
+      "completedOn": "2025-02-10 17:00:00 UTC",
+      "updatedOn": "2025-02-10 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 41,
+      "slug": "#41-la-ley-de-ohm",
+      "name": "La ley de Ohm",
+      "difficulty": "easy",
+      "completedOn": "2025-02-11 17:00:00 UTC",
+      "updatedOn": "2025-02-11 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 42,
+      "slug": "#42-conversor-de-temperatura",
+      "name": "Conversor de temperatura",
+      "difficulty": "easy",
+      "completedOn": "2025-02-12 17:00:00 UTC",
+      "updatedOn": "2025-02-12 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 43,
+      "slug": "#43-truco-o-trato",
+      "name": "Truco o trato",
+      "difficulty": "easy",
+      "completedOn": "2025-02-13 17:00:00 UTC",
+      "updatedOn": "2025-02-13 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 44,
+      "slug": "#44-bumeranes",
+      "name": "Bumeranes",
+      "difficulty": "easy",
+      "completedOn": "2025-02-14 17:00:00 UTC",
+      "updatedOn": "2025-02-14 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 45,
+      "slug": "#45-contenedor-de-agua",
+      "name": "Contenedor de agua",
+      "difficulty": "medium",
+      "completedOn": "2025-02-15 17:00:00 UTC",
+      "updatedOn": "2025-02-15 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 46,
+      "slug": "#46-donde-esta-el-robot",
+      "name": "¿Dónde está el robot?",
+      "difficulty": "medium",
+      "completedOn": "2025-02-16 17:00:00 UTC",
+      "updatedOn": "2025-02-16 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 47,
+      "slug": "#47-vocal-mas-comun",
+      "name": "Vocal más común",
+      "difficulty": "easy",
+      "completedOn": "2025-02-17 17:00:00 UTC",
+      "updatedOn": "2025-02-17 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 48,
+      "slug": "#48-el-calendario-de-adviento",
+      "name": "El calendario de adviento",
+      "difficulty": "easy",
+      "completedOn": "2025-02-18 17:00:00 UTC",
+      "updatedOn": "2025-02-18 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 49,
+      "slug": "#49-el-detector-de-handles",
+      "name": "El detector de handles",
+      "difficulty": "easy",
+      "completedOn": "2025-02-19 17:00:00 UTC",
+      "updatedOn": "2025-02-19 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 50,
+      "slug": "#50-la-encriptacion-de-karaca",
+      "name": "La encriptación de Karaca",
+      "difficulty": "easy",
+      "completedOn": "2025-02-20 17:00:00 UTC",
+      "updatedOn": "2025-02-20 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 51,
+      "slug": "#51-el-reto-random",
+      "name": "El reto random",
+      "difficulty": "?",
+      "completedOn": "2025-02-21 17:00:00 UTC",
+      "updatedOn": "2025-02-21 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 52,
+      "slug": "#52-el-famoso-fizz-buzz-v2",
+      "name": "El famoso Fizz Buzz V2",
+      "difficulty": "easy",
+      "completedOn": "2025-02-22 17:00:00 UTC",
+      "updatedOn": "2025-02-22 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 53,
+      "slug": "#53-el-lenguaje-hacker",
+      "name": "El lenguaje hacker",
+      "difficulty": "easy",
+      "completedOn": "2025-02-23 17:00:00 UTC",
+      "updatedOn": "2025-02-23 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 54,
+      "slug": "#54-el-partido-de-tenis",
+      "name": "El partido de tenis",
+      "difficulty": "medium",
+      "completedOn": "2025-02-24 17:00:00 UTC",
+      "updatedOn": "2025-02-24 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 55,
+      "slug": "#55-el-generador-de-contraseñas",
+      "name": "El generador de contraseñas",
+      "difficulty": "medium",
+      "completedOn": "2025-02-25 17:00:00 UTC",
+      "updatedOn": "2025-02-25 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 57,
+      "slug": "#57-hola-mundo",
+      "name": "Hola mundo",
+      "difficulty": "easy",
+      "completedOn": "2025-02-27 17:00:00 UTC",
+      "updatedOn": "2025-02-27 17:00:00 UTC",
+      "tags": [
+        "ada",
+        "apex",
+        "assembly",
+        "batch",
+        "c#",
+        "c++",
+        "c",
+        "clojure",
+        "cobol",
+        "crystal",
+        "dart",
+        "delphi",
+        "elixir",
+        "erlang",
+        "f#",
+        "haskell",
+        "java",
+        "javascript",
+        "julia",
+        "fortran",
+        "go",
+        "groovy",
+        "kotlin",
+        "lisp",
+        "lua",
+        "matlab",
+        "nim",
+        "objective-c",
+        "ocaml",
+        "perl",
+        "php",
+        "powersell",
+        "prolog",
+        "python",
+        "r",
+        "rust",
+        "scala",
+        "sql",
+        "swift",
+        "typescript",
+        "visualbasic",
+        "zig"
+      ]
+    },
+    {
+      "id": 58,
+      "slug": "#58-piedra-papel-tijera-lagarto-spock",
+      "name": "Piedra, papel, tijera, lagarto, spock",
+      "difficulty": "medium",
+      "completedOn": "2025-02-28 17:00:00 UTC",
+      "updatedOn": "2025-02-28 17:00:00 UTC",
+      "tags": ["javascript"]
+    },
+    {
+      "id": 59,
+      "slug": "#59-el-sombrero-seleccionador",
+      "name": "El sombrero seleccionador  ",
+      "difficulty": "medium",
+      "completedOn": "2025-03-01 17:00:00 UTC",
+      "updatedOn": "2025-03-01 17:00:00 UTC",
+      "tags": ["javascript"]
+    }
+  ]

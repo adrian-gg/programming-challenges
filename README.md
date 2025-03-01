@@ -61,3 +61,4 @@
 | 56  | Primo, fibonacci y par                       | medium     | 2025-02-26 |
 | 57  | Hola mundo                                   | easy       | 2025-02-27 |
 | 58  | Piedra, papel, tijera, lagarto, spock        | medium     | 2025-02-28 |
+| 59  | El sombrero seleccionador                    | medium     | 2025-03-01 |
