@@ -62,3 +62,4 @@
 | 57  | Hola mundo                                   | easy       | 2025-02-27 |
 | 58  | Piedra, papel, tijera, lagarto, spock        | medium     | 2025-02-28 |
 | 59  | El sombrero seleccionador                    | medium     | 2025-03-01 |
+| 60  | El generador pseudoaleatorio                 | medium     | 2025-03-02 |
