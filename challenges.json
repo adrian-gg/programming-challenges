@@ -590,5 +590,14 @@
     "completedOn": "2025-03-03 17:00:00 UTC",
     "updatedOn": "2025-03-03 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 62,
+    "slug": "#62-la-api",
+    "name": "La API",
+    "difficulty": "medium",
+    "completedOn": "2025-03-04 17:00:00 UTC",
+    "updatedOn": "2025-03-04 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
