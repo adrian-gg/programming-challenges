@@ -581,5 +581,14 @@
     "completedOn": "2025-03-02 17:00:00 UTC",
     "updatedOn": "2025-03-02 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 61,
+    "slug": "#61-heterograma-isograma-y-pangrama",
+    "name": "Heterograma, isograma y pangrama",
+    "difficulty": "easy",
+    "completedOn": "2025-03-03 17:00:00 UTC",
+    "updatedOn": "2025-03-03 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
