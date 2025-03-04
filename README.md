@@ -65,3 +65,4 @@
 | 60  | El generador pseudoaleatorio                 | medium     | 2025-03-02 |
 | 61  | Heterograma, isograma y pangrama             | easy       | 2025-03-03 |
 | 62  | La API                                       | medium     | 2025-03-04 |
+| 63  | Parametros URL                               | easy       | 2025-03-05 |

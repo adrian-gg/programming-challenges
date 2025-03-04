@@ -599,5 +599,14 @@
     "completedOn": "2025-03-04 17:00:00 UTC",
     "updatedOn": "2025-03-04 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 63,
+    "slug": "#63-parametros-url",
+    "name": "Parametros URL",
+    "difficulty": "easy",
+    "completedOn": "2025-03-05 17:00:00 UTC",
+    "updatedOn": "2025-03-05 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
