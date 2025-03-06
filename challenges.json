@@ -608,5 +608,14 @@
     "completedOn": "2025-03-05 17:00:00 UTC",
     "updatedOn": "2025-03-05 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 64,
+    "slug": "#64-viernes-13",
+    "name": "Viernes 13",
+    "difficulty": "easy",
+    "completedOn": "2025-03-06 17:00:00 UTC",
+    "updatedOn": "2025-03-06 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
