@@ -617,5 +617,14 @@
     "completedOn": "2025-03-06 17:00:00 UTC",
     "updatedOn": "2025-03-06 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 65,
+    "slug": "#65-adivina-la-palabra",
+    "name": "Adivia la palabra",
+    "difficulty": "medium",
+    "completedOn": "2025-03-07 17:00:00 UTC",
+    "updatedOn": "2025-03-07 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

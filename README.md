@@ -67,3 +67,4 @@
 | 62  | La API                                       | medium     | 2025-03-04 |
 | 63  | Parametros URL                               | easy       | 2025-03-05 |
 | 64  | Viernes 13                                   | easy       | 2025-03-06 |
+| 65  | Adivia la palabra                            | medium     | 2025-03-07 |
