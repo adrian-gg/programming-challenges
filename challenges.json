@@ -626,5 +626,14 @@
     "completedOn": "2025-03-07 17:00:00 UTC",
     "updatedOn": "2025-03-07 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 66,
+    "slug": "#66-octal-y-hexadecimal",
+    "name": "Octal y Hexadecimal",
+    "difficulty": "easy",
+    "completedOn": "2025-03-08 17:00:00 UTC",
+    "updatedOn": "2025-03-08 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
