@@ -635,5 +635,14 @@
     "completedOn": "2025-03-08 17:00:00 UTC",
     "updatedOn": "2025-03-08 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 67,
+    "slug": "#67-aurebesh",
+    "name": "Aurebesh",
+    "difficulty": "easy",
+    "completedOn": "2025-03-09 17:00:00 UTC",
+    "updatedOn": "2025-03-09 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
