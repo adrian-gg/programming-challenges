@@ -644,5 +644,14 @@
     "completedOn": "2025-03-09 17:00:00 UTC",
     "updatedOn": "2025-03-09 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 68,
+    "slug": "#68-la-escalera",
+    "name": "La escalera",
+    "difficulty": "medium",
+    "completedOn": "2025-03-10 17:00:00 UTC",
+    "updatedOn": "2025-03-10 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

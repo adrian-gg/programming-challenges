@@ -70,3 +70,4 @@
 | 65  | Adivia la palabra                            | medium     | 2025-03-07 |
 | 66  | Octal y Hexadecimal                          | easy       | 2025-03-08 |
 | 67  | Aurebesh                                     | easy       | 2025-03-09 |
+| 68  | La escalera                                  | medium     | 2025-03-10 |
