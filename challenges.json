@@ -653,5 +653,14 @@
     "completedOn": "2025-03-10 17:00:00 UTC",
     "updatedOn": "2025-03-10 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 69,
+    "slug": "#69-git-y-github",
+    "name": "Git y Github",
+    "difficulty": "hard",
+    "completedOn": "2025-03-11 17:00:00 UTC",
+    "updatedOn": "2025-03-11 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
