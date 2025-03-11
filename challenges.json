@@ -662,5 +662,14 @@
     "completedOn": "2025-03-11 17:00:00 UTC",
     "updatedOn": "2025-03-11 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 70,
+    "slug": "#70-web-scraping",
+    "name": "Web scraping",
+    "difficulty": "hard",
+    "completedOn": "2025-03-12 17:00:00 UTC",
+    "updatedOn": "2025-03-12 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

@@ -72,3 +72,4 @@
 | 67  | Aurebesh                                     | easy       | 2025-03-09 |
 | 68  | La escalera                                  | medium     | 2025-03-10 |
 | 69  | Git y Github                                 | hard       | 2025-03-11 |
+| 70  | Web scraping                                 | hard       | 2025-03-12 |
