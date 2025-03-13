@@ -680,5 +680,14 @@
     "completedOn": "2025-03-13 17:00:00 UTC",
     "updatedOn": "2025-03-13 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 72,
+    "slug": "#72-la-trifuerza",
+    "name": "La trifuerza",
+    "difficulty": "medium",
+    "completedOn": "2025-03-14 17:00:00 UTC",
+    "updatedOn": "2025-03-14 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

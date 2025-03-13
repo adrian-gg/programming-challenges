@@ -74,3 +74,4 @@
 | 69  | Git y Github                                 | hard       | 2025-03-11 |
 | 70  | Web scraping                                 | hard       | 2025-03-12 |
 | 71  | Análisis de texto                            | medium     | 2025-03-13 |
+| 72  | La trifuerza                                 | medium     | 2025-03-14 |
