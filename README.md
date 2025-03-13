@@ -73,3 +73,4 @@
 | 68  | La escalera                                  | medium     | 2025-03-10 |
 | 69  | Git y Github                                 | hard       | 2025-03-11 |
 | 70  | Web scraping                                 | hard       | 2025-03-12 |
+| 71  | Análisis de texto                            | medium     | 2025-03-13 |
