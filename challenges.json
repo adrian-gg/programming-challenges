@@ -689,5 +689,14 @@
     "completedOn": "2025-03-14 17:00:00 UTC",
     "updatedOn": "2025-03-14 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 73,
+    "slug": "#73-numeros-primos-gemelos",
+    "name": "Números primos gemelos",
+    "difficulty": "medium",
+    "completedOn": "2025-03-14 17:00:00 UTC",
+    "updatedOn": "2025-03-14 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
