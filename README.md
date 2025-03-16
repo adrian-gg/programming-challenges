@@ -76,3 +76,4 @@
 | 71  | Análisis de texto                            | medium     | 2025-03-13 |
 | 72  | La trifuerza                                 | medium     | 2025-03-14 |
 | 73  | Números primos gemelos                       | medium     | 2025-03-15 |
+| 74  | La espiral                                   | medium     | 2025-03-16 |

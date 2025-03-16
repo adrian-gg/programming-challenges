@@ -695,8 +695,17 @@
     "slug": "#73-numeros-primos-gemelos",
     "name": "Números primos gemelos",
     "difficulty": "medium",
-    "completedOn": "2025-03-14 17:00:00 UTC",
-    "updatedOn": "2025-03-14 17:00:00 UTC",
+    "completedOn": "2025-03-15 17:00:00 UTC",
+    "updatedOn": "2025-03-15 17:00:00 UTC",
+    "tags": ["javascript"]
+  },
+  {
+    "id": 74,
+    "slug": "#74-la-espiral",
+    "name": "La espiral",
+    "difficulty": "medium",
+    "completedOn": "2025-03-16 17:00:00 UTC",
+    "updatedOn": "2025-03-16 17:00:00 UTC",
     "tags": ["javascript"]
   }
 ]
