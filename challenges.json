@@ -716,5 +716,14 @@
     "completedOn": "2025-03-17 17:00:00 UTC",
     "updatedOn": "2025-03-17 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 76,
+    "slug": "#76-cifrado-cesar",
+    "name": "Cifrado César",
+    "difficulty": "easy",
+    "completedOn": "2025-03-18 17:00:00 UTC",
+    "updatedOn": "2025-03-18 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
