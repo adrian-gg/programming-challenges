@@ -78,3 +78,5 @@
 | 73  | Números primos gemelos                       | medium     | 2025-03-15 |
 | 74  | La espiral                                   | medium     | 2025-03-16 |
 | 75  | La base de datos                             | medium     | 2025-03-17 |
+| 76  | Cifrado César                                | easy       | 2025-03-18 |
+| 77  | El código Konami                             | medium     | 2025-03-17 |

@@ -725,5 +725,14 @@
     "completedOn": "2025-03-18 17:00:00 UTC",
     "updatedOn": "2025-03-18 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 77,
+    "slug": "#77-el-codigo-konami",
+    "name": "El código Konami",
+    "difficulty": "medium",
+    "completedOn": "2025-03-19 17:00:00 UTC",
+    "updatedOn": "2025-03-19 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
