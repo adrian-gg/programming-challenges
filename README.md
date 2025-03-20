@@ -79,4 +79,5 @@
 | 74  | La espiral                                   | medium     | 2025-03-16 |
 | 75  | La base de datos                             | medium     | 2025-03-17 |
 | 76  | Cifrado César                                | easy       | 2025-03-18 |
-| 77  | El código Konami                             | medium     | 2025-03-17 |
+| 77  | El código Konami                             | medium     | 2025-03-19 |
+| 78  | Testing                                      | medium     | 2025-03-20 |
