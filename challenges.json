@@ -743,5 +743,14 @@
     "completedOn": "2025-03-20 17:00:00 UTC",
     "updatedOn": "2025-03-20 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 79,
+    "slug": "#79-cuenta-atras",
+    "name": "Cuenta atrás",
+    "difficulty": "medium",
+    "completedOn": "2025-03-21 17:00:00 UTC",
+    "updatedOn": "2025-03-21 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
