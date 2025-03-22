@@ -752,5 +752,14 @@
     "completedOn": "2025-03-21 17:00:00 UTC",
     "updatedOn": "2025-03-21 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 80,
+    "slug": "#80-expresion-matematica",
+    "name": "Expresión matemática",
+    "difficulty": "medium",
+    "completedOn": "2025-03-22 17:00:00 UTC",
+    "updatedOn": "2025-03-22 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

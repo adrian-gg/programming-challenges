@@ -82,3 +82,4 @@
 | 77  | El código Konami                             | medium     | 2025-03-19 |
 | 78  | Testing                                      | medium     | 2025-03-20 |
 | 79  | Cuenta atrás                                 | medium     | 2025-03-21 |
+| 80  | Expresión matemática                         | medium     | 2025-03-22 |
