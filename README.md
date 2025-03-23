@@ -84,3 +84,4 @@
 | 79  | Cuenta atrás                                 | medium     | 2025-03-21 |
 | 80  | Expresión matemática                         | medium     | 2025-03-22 |
 | 81  | El carácter infiltrado                       | easy       | 2025-03-23 |
+| 82  | El teclado T9                                | medium     | 2025-03-24 |
