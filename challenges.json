@@ -761,5 +761,14 @@
     "completedOn": "2025-03-22 17:00:00 UTC",
     "updatedOn": "2025-03-22 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 81,
+    "slug": "#81-el-caracter-infiltrado",
+    "name": "El carácter infiltrado",
+    "difficulty": "easy",
+    "completedOn": "2025-03-23 17:00:00 UTC",
+    "updatedOn": "2025-03-23 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
