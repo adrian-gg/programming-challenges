@@ -779,5 +779,14 @@
     "completedOn": "2025-03-24 17:00:00 UTC",
     "updatedOn": "2025-03-24 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 83,
+    "slug": "#83-el-abaco",
+    "name": "El ábaco",
+    "difficulty": "easy",
+    "completedOn": "2025-03-25 17:00:00 UTC",
+    "updatedOn": "2025-03-25 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
