@@ -87,3 +87,4 @@
 | 82  | El teclado T9                                | medium     | 2025-03-24 |
 | 83  | El ábaco                                     | easy       | 2025-03-25 |
 | 84  | La columna de excel                          | medium     | 2025-03-26 |
+| 85  | Tetris                                       | medium     | 2025-03-27 |
