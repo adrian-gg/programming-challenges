@@ -788,5 +788,14 @@
     "completedOn": "2025-03-25 17:00:00 UTC",
     "updatedOn": "2025-03-25 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 84,
+    "slug": "#84-la-columna-de-excel",
+    "name": "La columna de excel",
+    "difficulty": "medium",
+    "completedOn": "2025-03-26 17:00:00 UTC",
+    "updatedOn": "2025-03-26 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

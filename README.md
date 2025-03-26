@@ -86,3 +86,4 @@
 | 81  | El carácter infiltrado                       | easy       | 2025-03-23 |
 | 82  | El teclado T9                                | medium     | 2025-03-24 |
 | 83  | El ábaco                                     | easy       | 2025-03-25 |
+| 84  | La columna de excel                          | medium     | 2025-03-26 |
