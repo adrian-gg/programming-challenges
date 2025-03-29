@@ -815,5 +815,14 @@
     "completedOn": "2025-03-28 17:00:00 UTC",
     "updatedOn": "2025-03-28 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 87,
+    "slug": "#87-primeros-pasos",
+    "name": "Primeros pasos",
+    "difficulty": "easy",
+    "completedOn": "2025-03-29 17:00:00 UTC",
+    "updatedOn": "2025-03-29 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

@@ -89,3 +89,4 @@
 | 84  | La columna de excel                          | medium     | 2025-03-26 |
 | 85  | Tetris                                       | medium     | 2025-03-27 |
 | 86  | txt                                          | medium     | 2025-03-28 |
+| 87  | Primeros pasos                               | easy       | 2025-03-29 |
