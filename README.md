@@ -91,3 +91,4 @@
 | 86  | txt                                          | medium     | 2025-03-28 |
 | 87  | Primeros pasos                               | easy       | 2025-03-29 |
 | 88  | Permutaciones                                | mediun     | 2025-03-30 |
+| 89  | Colores HEX y RGB                            | mediun     | 2025-03-31 |
