@@ -824,5 +824,14 @@
     "completedOn": "2025-03-29 17:00:00 UTC",
     "updatedOn": "2025-03-29 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 88,
+    "slug": "#88-permutaciones",
+    "name": "Permutaciones",
+    "difficulty": "medium",
+    "completedOn": "2025-03-30 17:00:00 UTC",
+    "updatedOn": "2025-03-30 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
