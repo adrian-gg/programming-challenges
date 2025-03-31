@@ -842,5 +842,14 @@
     "completedOn": "2025-03-31 17:00:00 UTC",
     "updatedOn": "2025-03-31 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 90,
+    "slug": "#90-las-sumas",
+    "name": "Las sumas",
+    "difficulty": "medium",
+    "completedOn": "2025-04-01 17:00:00 UTC",
+    "updatedOn": "2025-04-01 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
