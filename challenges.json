@@ -851,5 +851,14 @@
     "completedOn": "2025-04-01 17:00:00 UTC",
     "updatedOn": "2025-04-01 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 91,
+    "slug": "#91-triples-pitagoricos",
+    "name": "Triples pitagóricos",
+    "difficulty": "medium",
+    "completedOn": "2025-04-02 17:00:00 UTC",
+    "updatedOn": "2025-04-02 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
