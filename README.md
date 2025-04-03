@@ -94,3 +94,4 @@
 | 89  | Colores HEX y RGB                            | mediun     | 2025-03-31 |
 | 90  | Las sumas                                    | mediun     | 2025-04-01 |
 | 91  | Triples pitagóricos                          | mediun     | 2025-04-02 |
+| 92  | Tabla de multiplicar                         | mediun     | 2025-04-03 |

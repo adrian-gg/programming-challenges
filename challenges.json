@@ -860,5 +860,14 @@
     "completedOn": "2025-04-02 17:00:00 UTC",
     "updatedOn": "2025-04-02 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 92,
+    "slug": "#92-tabla-de-multiplicar",
+    "name": "Tabla de multiplicar",
+    "difficulty": "easy",
+    "completedOn": "2025-04-03 17:00:00 UTC",
+    "updatedOn": "2025-04-03 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
