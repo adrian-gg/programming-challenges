@@ -95,3 +95,4 @@
 | 90  | Las sumas                                    | mediun     | 2025-04-01 |
 | 91  | Triples pitagóricos                          | mediun     | 2025-04-02 |
 | 92  | Tabla de multiplicar                         | mediun     | 2025-04-03 |
+| 93  | La casa encantada                            | hard       | 2025-04-04 |

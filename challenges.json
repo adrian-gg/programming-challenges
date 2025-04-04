@@ -869,5 +869,14 @@
     "completedOn": "2025-04-03 17:00:00 UTC",
     "updatedOn": "2025-04-03 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 93,
+    "slug": "#93-la-casa-encantada",
+    "name": "La casa encantada",
+    "difficulty": "hard",
+    "completedOn": "2025-04-04 17:00:00 UTC",
+    "updatedOn": "2025-04-04 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
