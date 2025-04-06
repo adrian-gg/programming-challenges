@@ -887,5 +887,14 @@
     "completedOn": "2025-04-05 17:00:00 UTC",
     "updatedOn": "2025-04-05 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 95,
+    "slug": "#95-simulador-de-clima",
+    "name": "Simuñador de clima",
+    "difficulty": "easy",
+    "completedOn": "2025-04-06 17:00:00 UTC",
+    "updatedOn": "2025-04-06 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

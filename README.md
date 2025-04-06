@@ -97,3 +97,4 @@
 | 92  | Tabla de multiplicar                         | mediun     | 2025-04-03 |
 | 93  | La casa encantada                            | hard       | 2025-04-04 |
 | 94  | Punto de encuentro                           | hard       | 2025-04-05 |
+| 95  | Simuñador de clima                           | easy       | 2025-04-06 |
