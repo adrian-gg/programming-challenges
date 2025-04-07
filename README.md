@@ -99,3 +99,4 @@
 | 94  | Punto de encuentro                           | hard       | 2025-04-05 |
 | 95  | Simuñador de clima                           | easy       | 2025-04-06 |
 | 96  | Adivinanzas matemáticas                      | medium     | 2025-04-07 |
+| 967 | El calendario de adviento 2                  | easy       | 2025-04-08 |

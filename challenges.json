@@ -905,5 +905,14 @@
     "completedOn": "2025-04-07 17:00:00 UTC",
     "updatedOn": "2025-04-07 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 96,
+    "slug": "#97-el-calendario-de-adviento-2",
+    "name": "El calendario de adviento 2",
+    "difficulty": "easy",
+    "completedOn": "2025-04-08 17:00:00 UTC",
+    "updatedOn": "2025-04-08 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
