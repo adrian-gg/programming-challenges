@@ -907,12 +907,21 @@
     "tags": ["javascript"]
   },
   {
-    "id": 96,
+    "id": 97,
     "slug": "#97-el-calendario-de-adviento-2",
     "name": "El calendario de adviento 2",
     "difficulty": "easy",
     "completedOn": "2025-04-08 17:00:00 UTC",
     "updatedOn": "2025-04-08 17:00:00 UTC",
+    "tags": ["javascript"]
+  },
+  {
+    "id": 98,
+    "slug": "#98-la-carrera-de-coches",
+    "name": "La carrera de coches",
+    "difficulty": "medium",
+    "completedOn": "2025-04-09 17:00:00 UTC",
+    "updatedOn": "2025-04-09 17:00:00 UTC",
     "tags": ["javascript"]
   }
 ]
