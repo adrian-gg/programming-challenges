@@ -929,8 +929,17 @@
     "slug": "#99-la-palabra-de-100-puntos",
     "name": "La palabra de 100 puntos",
     "difficulty": "easy",
-    "completedOn": "2025-04-010 17:00:00 UTC",
-    "updatedOn": "2025-04-010 17:00:00 UTC",
+    "completedOn": "2025-04-10 17:00:00 UTC",
+    "updatedOn": "2025-04-10 17:00:00 UTC",
+    "tags": ["javascript"]
+  },
+  {
+    "id": 100,
+    "slug": "#100-numeros-romanos",
+    "name": "Números romanos",
+    "difficulty": "easy",
+    "completedOn": "2025-04-11 17:00:00 UTC",
+    "updatedOn": "2025-04-11 17:00:00 UTC",
     "tags": ["javascript"]
   }
 ]
