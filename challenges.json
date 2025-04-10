@@ -923,5 +923,14 @@
     "completedOn": "2025-04-09 17:00:00 UTC",
     "updatedOn": "2025-04-09 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 99,
+    "slug": "#99-la-palabra-de-100-puntos",
+    "name": "La palabra de 100 puntos",
+    "difficulty": "easy",
+    "completedOn": "2025-04-010 17:00:00 UTC",
+    "updatedOn": "2025-04-010 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

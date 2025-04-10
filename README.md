@@ -101,3 +101,4 @@
 | 96  | Adivinanzas matemáticas                      | medium     | 2025-04-07 |
 | 97  | El calendario de adviento 2                  | easy       | 2025-04-08 |
 | 98  | La carrera de coches                         | medium     | 2025-04-09 |
+| 99  | La palabra de 100 puntos                     | easy       | 2025-04-10 |
