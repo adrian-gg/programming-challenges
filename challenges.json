@@ -941,5 +941,14 @@
     "completedOn": "2025-04-11 17:00:00 UTC",
     "updatedOn": "2025-04-11 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 101,
+    "slug": "#101-las-tres-puertas",
+    "name": "Las tres puertas",
+    "difficulty": "easy",
+    "completedOn": "2025-04-12 17:00:00 UTC",
+    "updatedOn": "2025-04-12 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
