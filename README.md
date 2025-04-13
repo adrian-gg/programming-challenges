@@ -104,3 +104,4 @@
 | 99  | La palabra de 100 puntos                     | easy       | 2025-04-10 |
 | 100 | Números romanos                              | easy       | 2025-04-11 |
 | 101 | Las tres puertas                             | easy       | 2025-04-12 |
+| 1022 | Árbol sintético                             | easy       | 2025-04-13 |
