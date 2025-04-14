@@ -959,5 +959,14 @@
     "completedOn": "2025-04-13 17:00:00 UTC",
     "updatedOn": "2025-04-13 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 103,
+    "slug": "#103-caramelos",
+    "name": "Caramelos",
+    "difficulty": "hard",
+    "completedOn": "2025-04-14 17:00:00 UTC",
+    "updatedOn": "2025-04-14 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
