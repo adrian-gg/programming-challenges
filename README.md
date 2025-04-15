@@ -106,3 +106,4 @@
 | 101 | Las tres puertas                             | easy       | 2025-04-12 |
 | 102 | Árbol sintético                              | easy       | 2025-04-13 |
 | 103 | Caramelos                                    | hard       | 2025-04-14 |
+| 104 | Secuencia más larga                          | medium     | 2025-04-15 |
