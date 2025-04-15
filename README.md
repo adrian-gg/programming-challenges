@@ -97,7 +97,7 @@
 | 92  | Tabla de multiplicar                         | mediun     | 2025-04-03 |
 | 93  | La casa encantada                            | hard       | 2025-04-04 |
 | 94  | Punto de encuentro                           | hard       | 2025-04-05 |
-| 95  | Simuñador de clima                           | easy       | 2025-04-06 |
+| 95  | Simulador de clima                           | easy       | 2025-04-06 |
 | 96  | Adivinanzas matemáticas                      | medium     | 2025-04-07 |
 | 97  | El calendario de adviento 2                  | easy       | 2025-04-08 |
 | 98  | La carrera de coches                         | medium     | 2025-04-09 |
@@ -107,3 +107,4 @@
 | 102 | Árbol sintético                              | easy       | 2025-04-13 |
 | 103 | Caramelos                                    | hard       | 2025-04-14 |
 | 104 | Secuencia más larga                          | medium     | 2025-04-15 |
+| 105 | Línea de puntos                              | hard       | 2025-04-16 |

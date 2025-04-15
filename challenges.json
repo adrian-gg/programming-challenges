@@ -977,5 +977,14 @@
     "completedOn": "2025-04-15 17:00:00 UTC",
     "updatedOn": "2025-04-15 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 105,
+    "slug": "#105-linea-de-puntos",
+    "name": "Línea de puntos",
+    "difficulty": "hard",
+    "completedOn": "2025-04-16 17:00:00 UTC",
+    "updatedOn": "2025-04-16 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
