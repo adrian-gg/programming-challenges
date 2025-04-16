@@ -108,3 +108,4 @@
 | 103 | Caramelos                                    | hard       | 2025-04-14 |
 | 104 | Secuencia más larga                          | medium     | 2025-04-15 |
 | 105 | Línea de puntos                              | hard       | 2025-04-16 |
+| 106 | Comparador de versiones                      | medium     | 2025-04-17 |

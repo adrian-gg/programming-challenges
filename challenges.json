@@ -986,5 +986,14 @@
     "completedOn": "2025-04-16 17:00:00 UTC",
     "updatedOn": "2025-04-16 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 106,
+    "slug": "#106-comparador-de-versiones",
+    "name": "Comparador de versiones",
+    "difficulty": "medium",
+    "completedOn": "2025-04-17 17:00:00 UTC",
+    "updatedOn": "2025-04-17 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
