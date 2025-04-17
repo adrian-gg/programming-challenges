@@ -11,4 +11,4 @@ console.log(calculateColumnNumber("AA")) // 27
 console.log(calculateColumnNumber("CA")) // 79
 console.log(calculateColumnNumber("AAA")) // 703
 console.log(calculateColumnNumber("XFD")) // 16384
-console.log(calculateColumnNumber("ZZZZ")) // 4475254
+console.log(calculateColumnNumber("ZZZZ")) // 475254
