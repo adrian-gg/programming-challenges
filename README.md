@@ -109,3 +109,4 @@
 | 104 | Secuencia más larga                          | medium     | 2025-04-15 |
 | 105 | Línea de puntos                              | hard       | 2025-04-16 |
 | 106 | Comparador de versiones                      | medium     | 2025-04-17 |
+| 107 | La columna de excel 2                        | easy       | 2025-04-18 |
