@@ -1004,5 +1004,14 @@
     "completedOn": "2025-04-18 17:00:00 UTC",
     "updatedOn": "2025-04-18 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 108,
+    "slug": "#108-la-dungeon",
+    "name": "La dungeon",
+    "difficulty": "hard",
+    "completedOn": "2025-04-19 17:00:00 UTC",
+    "updatedOn": "2025-04-19 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
