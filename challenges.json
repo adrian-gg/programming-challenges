@@ -1022,5 +1022,14 @@
     "completedOn": "2025-04-20 17:00:00 UTC",
     "updatedOn": "2025-04-20 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 110,
+    "slug": "#110-agrupamiento",
+    "name": "Agrupamiento",
+    "difficulty": "medium",
+    "completedOn": "2025-04-21 17:00:00 UTC",
+    "updatedOn": "2025-04-21 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

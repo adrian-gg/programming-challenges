@@ -112,3 +112,4 @@
 | 107 | La columna de excel 2                        | easy       | 2025-04-18 |
 | 108 | La dungeon                                   | hard       | 2025-04-19 |
 | 109 | Travesía del caracol                         | medium     | 2025-04-20 |
+| 110 | Agrupamiento                                 | medium     | 2025-04-21 |
