@@ -113,3 +113,4 @@
 | 108 | La dungeon                                   | hard       | 2025-04-19 |
 | 109 | Travesía del caracol                         | medium     | 2025-04-20 |
 | 110 | Agrupamiento                                 | medium     | 2025-04-21 |
+| 111 | Anulación de intérvalos                      | easy       | 2025-04-22 |
