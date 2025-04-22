@@ -114,3 +114,4 @@
 | 109 | Travesía del caracol                         | medium     | 2025-04-20 |
 | 110 | Agrupamiento                                 | medium     | 2025-04-21 |
 | 111 | Anulación de intérvalos                      | easy       | 2025-04-22 |
+| 112 | ¿Está vacio?                                 | easy       | 2025-04-23 |

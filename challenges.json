@@ -1040,5 +1040,14 @@
     "completedOn": "2025-04-22 17:00:00 UTC",
     "updatedOn": "2025-04-22 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 112,
+    "slug": "#112-esta-vacio",
+    "name": "¿Está vacío?",
+    "difficulty": "easy",
+    "completedOn": "2025-04-23 17:00:00 UTC",
+    "updatedOn": "2025-04-23 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
