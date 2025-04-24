@@ -1049,5 +1049,14 @@
     "completedOn": "2025-04-23 17:00:00 UTC",
     "updatedOn": "2025-04-23 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 113,
+    "slug": "#113-mas-uno",
+    "name": "Más uno",
+    "difficulty": "easy",
+    "completedOn": "2025-04-24 17:00:00 UTC",
+    "updatedOn": "2025-04-24 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

@@ -115,3 +115,4 @@
 | 110 | Agrupamiento                                 | medium     | 2025-04-21 |
 | 111 | Anulación de intérvalos                      | easy       | 2025-04-22 |
 | 112 | ¿Está vacio?                                 | easy       | 2025-04-23 |
+| 113 | Más uno                                      | easy       | 2025-04-24 |
