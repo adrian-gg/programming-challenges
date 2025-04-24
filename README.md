@@ -116,3 +116,4 @@
 | 111 | Anulación de intérvalos                      | easy       | 2025-04-22 |
 | 112 | ¿Está vacio?                                 | easy       | 2025-04-23 |
 | 113 | Más uno                                      | easy       | 2025-04-24 |
+| 114 | Rotando imagen                               | hard       | 2025-04-25 |

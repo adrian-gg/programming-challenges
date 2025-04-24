@@ -1058,5 +1058,14 @@
     "completedOn": "2025-04-24 17:00:00 UTC",
     "updatedOn": "2025-04-24 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 114,
+    "slug": "#114-rotando-imagen",
+    "name": "Rotando imagen",
+    "difficulty": "hard",
+    "completedOn": "2025-04-25 17:00:00 UTC",
+    "updatedOn": "2025-04-25 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
