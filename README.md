@@ -117,3 +117,4 @@
 | 112 | ¿Está vacio?                                 | easy       | 2025-04-23 |
 | 113 | Más uno                                      | easy       | 2025-04-24 |
 | 114 | Rotando imagen                               | hard       | 2025-04-25 |
+| 115 | Cominos únicos                               | medium     | 2025-04-26 |

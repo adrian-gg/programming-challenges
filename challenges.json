@@ -1067,5 +1067,14 @@
     "completedOn": "2025-04-25 17:00:00 UTC",
     "updatedOn": "2025-04-25 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 115,
+    "slug": "#115-caminos-unicos",
+    "name": "Caminos únicos",
+    "difficulty": "medium",
+    "completedOn": "2025-04-26 17:00:00 UTC",
+    "updatedOn": "2025-04-26 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
