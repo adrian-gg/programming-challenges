@@ -1,41 +1,7 @@
-/* function numDecodings(s) {
-  if (s.length === 0 || s[0] === "0") return 0
-  let totalDecodings = s.includes("0") ? 0 : 1
-
-  for (let i = 0; i <= s.length % 2; i++) {
-    for (let j = i; j < s.length - 1; j += 2) {
-      const num = parseInt(s[j] + s[j + 1])
-      //console.log(`n: ${s[j]} ${s[j + 1]} ${num} - ${i}`)
-
-      if (
-        s[j] !== "0" &&
-        s[j + 1] === "0" &&
-        num <= 26 &&
-        s.length > 3 &&
-        j > 0
-      ) {
-        totalDecodings++
-      }
-
-      if (
-        num > 26 ||
-        s[j] === "0" ||
-        (j === s.length - 3 && s[s.length - 1] === "0")
-      ) {
-        totalDecodings--
-        break
-      }
-    }
-    totalDecodings++
-  }
-
-  return totalDecodings
-} */
-
 function numDecodings(s) {
   if (s.length === 0 || s[0] === "0") return 0
 
-  let dp = new Array(s.length + 1).fill(0) // Inicializar TODO a 0
+  let dp = new Array(s.length + 1).fill(0)
   dp[0] = 1
   dp[1] = 1
 
