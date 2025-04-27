@@ -1076,5 +1076,14 @@
     "completedOn": "2025-04-26 17:00:00 UTC",
     "updatedOn": "2025-04-26 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 116,
+    "slug": "#116-formas-de-decodificar",
+    "name": "Formas de decodificar",
+    "difficulty": "medium",
+    "completedOn": "2025-04-27 17:00:00 UTC",
+    "updatedOn": "2025-04-27 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
