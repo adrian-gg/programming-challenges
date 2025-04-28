@@ -119,3 +119,4 @@
 | 114 | Rotando imagen                               | hard       | 2025-04-25 |
 | 115 | Cominos únicos                               | medium     | 2025-04-26 |
 | 116 | Formas de decodificar                        | medium     | 2025-04-27 |
+| 117 | La baraja de cartas                          | easy       | 2025-04-28 |

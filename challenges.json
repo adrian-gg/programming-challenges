@@ -1085,5 +1085,14 @@
     "completedOn": "2025-04-27 17:00:00 UTC",
     "updatedOn": "2025-04-27 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 117,
+    "slug": "#117-la-baraja-de-cartas",
+    "name": "La baraja de cartas",
+    "difficulty": "easy",
+    "completedOn": "2025-04-28 17:00:00 UTC",
+    "updatedOn": "2025-04-28 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
