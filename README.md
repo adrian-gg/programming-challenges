@@ -120,3 +120,4 @@
 | 115 | Cominos únicos                               | medium     | 2025-04-26 |
 | 116 | Formas de decodificar                        | medium     | 2025-04-27 |
 | 117 | La baraja de cartas                          | easy       | 2025-04-28 |
+| 118 | Búsqueda de inserción                        | easy       | 2025-04-29 |

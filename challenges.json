@@ -1094,5 +1094,14 @@
     "completedOn": "2025-04-28 17:00:00 UTC",
     "updatedOn": "2025-04-28 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 118,
+    "slug": "#118-busqueda-de-insercion",
+    "name": "Búsqueda de inserción",
+    "difficulty": "easy",
+    "completedOn": "2025-04-29 17:00:00 UTC",
+    "updatedOn": "2025-04-29 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
