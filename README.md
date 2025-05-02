@@ -123,3 +123,4 @@
 | 118 | Búsqueda de inserción                        | easy       | 2025-04-29 |
 | 119 | El teclado T9 2                              | medium     | 2025-04-30 |
 | 120 | Expresiones regulares                        | hard       | 2025-05-01 |
+| 121 | Suma de binarios                             | easy       | 2025-05-02 |
