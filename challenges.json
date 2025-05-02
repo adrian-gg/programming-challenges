@@ -1124,9 +1124,9 @@
   },
   {
     "id": 121,
-    "slug": "#121-Suma-de-binarios",
+    "slug": "#121-suma-de-binarios",
     "name": "Suma de binarios",
-    "difficulty": "hard",
+    "difficulty": "easy",
     "completedOn": "2025-05-02 17:00:00 UTC",
     "updatedOn": "2025-05-02 17:00:00 UTC",
     "tags": ["javascript"]
