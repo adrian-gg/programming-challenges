@@ -1,4 +1,4 @@
-# Reto #120: Suma de binarios
+# Reto #121: Suma de binarios
 
 #### Dificultad: Easy
 
