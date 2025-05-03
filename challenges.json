@@ -1130,5 +1130,14 @@
     "completedOn": "2025-05-02 17:00:00 UTC",
     "updatedOn": "2025-05-02 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 122,
+    "slug": "#122-mediana-de-arrays",
+    "name": "Mediana de arrays",
+    "difficulty": "medium",
+    "completedOn": "2025-05-03 17:00:00 UTC",
+    "updatedOn": "2025-05-03 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
