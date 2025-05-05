@@ -1157,5 +1157,14 @@
     "completedOn": "2025-05-05 17:00:00 UTC",
     "updatedOn": "2025-05-05 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 125,
+    "slug": "#125-subiendo-escaleras",
+    "name": "Subiendo escaleras",
+    "difficulty": "easy",
+    "completedOn": "2025-05-06 17:00:00 UTC",
+    "updatedOn": "2025-05-06 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

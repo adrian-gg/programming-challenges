@@ -127,3 +127,4 @@
 | 122 | Media de arrays                              | medium     | 2025-05-03 |
 | 123 | Listas particionadas                         | medium     | 2025-05-04 |
 | 124 | Compresión RLE                               | medium     | 2025-05-05 |
+| 125 | Subiendo escaleras                           | easy       | 2025-05-06 |
