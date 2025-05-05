@@ -1148,5 +1148,14 @@
     "completedOn": "2025-05-04 17:00:00 UTC",
     "updatedOn": "2025-05-04 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 124,
+    "slug": "#124-compresion-rle",
+    "name": "Compresión RLE",
+    "difficulty": "medium",
+    "completedOn": "2025-05-05 17:00:00 UTC",
+    "updatedOn": "2025-05-05 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
