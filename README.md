@@ -128,3 +128,4 @@
 | 123 | Listas particionadas                         | medium     | 2025-05-04 |
 | 124 | Compresión RLE                               | medium     | 2025-05-05 |
 | 125 | Subiendo escaleras                           | easy       | 2025-05-06 |
+| 126 | Distancia máxima                             | medium     | 2025-05-07 |

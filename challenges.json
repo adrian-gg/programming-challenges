@@ -1166,5 +1166,14 @@
     "completedOn": "2025-05-06 17:00:00 UTC",
     "updatedOn": "2025-05-06 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 126,
+    "slug": "#126-distancia-maxima",
+    "name": "Distancia máxima",
+    "difficulty": "medium",
+    "completedOn": "2025-05-07 17:00:00 UTC",
+    "updatedOn": "2025-05-07 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
