@@ -1184,5 +1184,14 @@
     "completedOn": "2025-05-08 17:00:00 UTC",
     "updatedOn": "2025-05-08 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 128,
+    "slug": "#128-compra-venta-de-acciones",
+    "name": "Compraventa de acciones",
+    "difficulty": "easy",
+    "completedOn": "2025-05-09 17:00:00 UTC",
+    "updatedOn": "2025-05-09 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

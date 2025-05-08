@@ -130,3 +130,4 @@
 | 125 | Subiendo escaleras                           | easy       | 2025-05-06 |
 | 126 | Distancia máxima                             | medium     | 2025-05-07 |
 | 127 | Utils                                        | easy       | 2025-05-08 |
+| 128 | Compraventa de acciones                      | easy       | 2025-05-09 |
