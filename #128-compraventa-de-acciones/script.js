@@ -1,15 +1,15 @@
 function maxProfit(prices) {
-  let maxProfit = 0
+  let profit = 0
 
   for (let i = 0; i < prices.length - 1; i++) {
     const buy = prices[i]
     for (let j = i + 1; j < prices.length; j++) {
       const sell = prices[j]
-      maxProfit = Math.max(maxProfit, sell - buy)
+      profit = Math.max(profit, sell - buy)
     }
   }
 
-  return maxProfit
+  return profit
 }
 
 console.log(maxProfit([7, 1, 5, 3, 6, 4])) //5
