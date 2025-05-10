@@ -1193,5 +1193,14 @@
     "completedOn": "2025-05-09 17:00:00 UTC",
     "updatedOn": "2025-05-09 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 129,
+    "slug": "#129-compraventa-de-acciones-2",
+    "name": "Compraventa de acciones 2",
+    "difficulty": "medium",
+    "completedOn": "2025-05-10 17:00:00 UTC",
+    "updatedOn": "2025-05-10 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
