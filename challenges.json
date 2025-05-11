@@ -1202,5 +1202,14 @@
     "completedOn": "2025-05-10 17:00:00 UTC",
     "updatedOn": "2025-05-10 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 130,
+    "slug": "#130-compraventa-de-acciones-3",
+    "name": "Compraventa de acciones 3",
+    "difficulty": "hard",
+    "completedOn": "2025-05-11 17:00:00 UTC",
+    "updatedOn": "2025-05-11 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

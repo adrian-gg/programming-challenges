@@ -132,3 +132,4 @@
 | 127 | Utils                                        | easy       | 2025-05-08 |
 | 128 | Compraventa de acciones                      | easy       | 2025-05-09 |
 | 129 | Compraventa de acciones 2                    | medium     | 2025-05-10 |
+| 130 | Compraventa de acciones 3                    | hard       | 2025-05-11 |
