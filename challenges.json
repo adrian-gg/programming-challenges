@@ -1211,5 +1211,14 @@
     "completedOn": "2025-05-11 17:00:00 UTC",
     "updatedOn": "2025-05-11 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 131,
+    "slug": "#131-contraste-de-color",
+    "name": "Contraste de color",
+    "difficulty": "medium",
+    "completedOn": "2025-05-12 17:00:00 UTC",
+    "updatedOn": "2025-05-12 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

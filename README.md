@@ -133,3 +133,4 @@
 | 128 | Compraventa de acciones                      | easy       | 2025-05-09 |
 | 129 | Compraventa de acciones 2                    | medium     | 2025-05-10 |
 | 130 | Compraventa de acciones 3                    | hard       | 2025-05-11 |
+| 131 | Contraste de color                           | medium     | 2025-05-12 |
