@@ -1220,5 +1220,14 @@
     "completedOn": "2025-05-12 17:00:00 UTC",
     "updatedOn": "2025-05-12 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 132,
+    "slug": "#132-la-baraja-de-cartas-2",
+    "name": "La baraja de cartas 2",
+    "difficulty": "easy",
+    "completedOn": "2025-05-13 17:00:00 UTC",
+    "updatedOn": "2025-05-13 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
