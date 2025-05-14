@@ -135,3 +135,4 @@
 | 130 | Compraventa de acciones 3                    | hard       | 2025-05-11 |
 | 131 | Contraste de color                           | medium     | 2025-05-12 |
 | 132 | La baraja de cartas 2                        | easy       | 2025-05-13 |
+| 133 | Número único                                 | easy       | 2025-05-14 |

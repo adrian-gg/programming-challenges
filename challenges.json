@@ -1229,5 +1229,14 @@
     "completedOn": "2025-05-13 17:00:00 UTC",
     "updatedOn": "2025-05-13 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 133,
+    "slug": "#133-numero-unico",
+    "name": "Número único",
+    "difficulty": "easy",
+    "completedOn": "2025-05-14 17:00:00 UTC",
+    "updatedOn": "2025-05-14 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
