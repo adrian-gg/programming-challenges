@@ -1247,5 +1247,14 @@
     "completedOn": "2025-05-15 17:00:00 UTC",
     "updatedOn": "2025-05-15 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 135,
+    "slug": "#135-buscando-en-pi",
+    "name": "Buscando en PI",
+    "difficulty": "medium",
+    "completedOn": "2025-05-16 17:00:00 UTC",
+    "updatedOn": "2025-05-16 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

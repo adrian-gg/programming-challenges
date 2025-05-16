@@ -137,3 +137,4 @@
 | 132 | La baraja de cartas 2                        | easy       | 2025-05-13 |
 | 133 | Número único                                 | easy       | 2025-05-14 |
 | 134 | Formas de calculo                            | hard       | 2025-05-15 |
+| 135 | Buscando en PI                               | medium     | 2025-05-16 |
