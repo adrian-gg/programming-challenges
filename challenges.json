@@ -1256,5 +1256,14 @@
     "completedOn": "2025-05-16 17:00:00 UTC",
     "updatedOn": "2025-05-16 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 136,
+    "slug": "#136-rotando-imagen-2",
+    "name": "Rotando imagen 2",
+    "difficulty": "easy",
+    "completedOn": "2025-05-17 17:00:00 UTC",
+    "updatedOn": "2025-05-17 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
