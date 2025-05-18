@@ -139,3 +139,4 @@
 | 134 | Formas de calculo                            | hard       | 2025-05-15 |
 | 135 | Buscando en PI                               | medium     | 2025-05-16 |
 | 136 | Rotando imagen 2                             | easy       | 2025-05-17 |
+| 137 | Número feliz                                 | easy       | 2025-05-18 |
