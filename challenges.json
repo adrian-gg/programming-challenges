@@ -1267,12 +1267,21 @@
     "tags": ["javascript"]
   },
   {
-    "id": 136,
+    "id": 137,
     "slug": "#137-numero-feliz",
     "name": "Número feliz",
     "difficulty": "easy",
     "completedOn": "2025-05-18 17:00:00 UTC",
     "updatedOn": "2025-05-18 17:00:00 UTC",
+    "tags": ["javascript"]
+  },
+  {
+    "id": 138,
+    "slug": "#138-atoi",
+    "name": "Atoi",
+    "difficulty": "medium",
+    "completedOn": "2025-05-19 17:00:00 UTC",
+    "updatedOn": "2025-05-19 17:00:00 UTC",
     "tags": ["javascript"]
   }
 ]
