@@ -1283,5 +1283,14 @@
     "completedOn": "2025-05-19 17:00:00 UTC",
     "updatedOn": "2025-05-19 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 139,
+    "slug": "#139-numero-de-digitos-uno",
+    "name": "Número de dígitos uno",
+    "difficulty": "hard",
+    "completedOn": "2025-05-20 17:00:00 UTC",
+    "updatedOn": "2025-05-20 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
