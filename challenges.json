@@ -1292,5 +1292,14 @@
     "completedOn": "2025-05-20 17:00:00 UTC",
     "updatedOn": "2025-05-20 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 140,
+    "slug": "#140-la-maquina-de-estado",
+    "name": "La máquina de estado",
+    "difficulty": "hard",
+    "completedOn": "2025-05-21 17:00:00 UTC",
+    "updatedOn": "2025-05-21 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

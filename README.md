@@ -141,4 +141,5 @@
 | 136 | Rotando imagen 2                             | easy       | 2025-05-17 |
 | 137 | Número feliz                                 | easy       | 2025-05-18 |
 | 138 | Atoi                                         | medium     | 2025-05-19 |
-| 138 | Número de dígitos uno                        | hard       | 2025-05-20 |
+| 139 | Número de dígitos uno                        | hard       | 2025-05-20 |
+| 140 | La máquina de estado                         | hard       | 2025-05-21 |
