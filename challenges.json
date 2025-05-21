@@ -1301,5 +1301,14 @@
     "completedOn": "2025-05-21 17:00:00 UTC",
     "updatedOn": "2025-05-21 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 141,
+    "slug": "#141-numero-super-feo",
+    "name": "Número Super Feo",
+    "difficulty": "medium",
+    "completedOn": "2025-05-22 17:00:00 UTC",
+    "updatedOn": "2025-05-22 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
