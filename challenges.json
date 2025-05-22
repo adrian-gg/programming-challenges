@@ -1310,5 +1310,14 @@
     "completedOn": "2025-05-22 17:00:00 UTC",
     "updatedOn": "2025-05-22 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 142,
+    "slug": "#142-globos-reventados",
+    "name": "Globos reventados",
+    "difficulty": "hard",
+    "completedOn": "2025-05-23 17:00:00 UTC",
+    "updatedOn": "2025-05-23 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

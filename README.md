@@ -144,3 +144,4 @@
 | 139 | Número de dígitos uno                        | hard       | 2025-05-20 |
 | 140 | La máquina de estado                         | hard       | 2025-05-21 |
 | 141 | Número Super Feo                             | medium     | 2025-05-22 |
+| 142 | Globos reventados                            | hard       | 2025-05-23 |
