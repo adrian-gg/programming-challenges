@@ -1305,7 +1305,7 @@
   {
     "id": 141,
     "slug": "#141-numero-super-feo",
-    "name": "Número Super Feo",
+    "name": "Número super feo",
     "difficulty": "medium",
     "completedOn": "2025-05-22 17:00:00 UTC",
     "updatedOn": "2025-05-22 17:00:00 UTC",
@@ -1318,6 +1318,15 @@
     "difficulty": "hard",
     "completedOn": "2025-05-23 17:00:00 UTC",
     "updatedOn": "2025-05-23 17:00:00 UTC",
+    "tags": ["javascript"]
+  },
+  {
+    "id": 143,
+    "slug": "#143-game-of-life",
+    "name": "Game of life",
+    "difficulty": "medium",
+    "completedOn": "2025-05-24 17:00:00 UTC",
+    "updatedOn": "2025-05-24 17:00:00 UTC",
     "tags": ["javascript"]
   }
 ]
