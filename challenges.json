@@ -1328,5 +1328,14 @@
     "completedOn": "2025-05-24 17:00:00 UTC",
     "updatedOn": "2025-05-24 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 144,
+    "slug": "#144-la-seed",
+    "name": "La seed",
+    "difficulty": "medium",
+    "completedOn": "2025-05-25 17:00:00 UTC",
+    "updatedOn": "2025-05-25 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

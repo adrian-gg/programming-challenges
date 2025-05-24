@@ -146,3 +146,4 @@
 | 141 | Número Super Feo                             | medium     | 2025-05-22 |
 | 142 | Globos reventados                            | hard       | 2025-05-23 |
 | 143 | Game of life                                 | medium     | 2025-05-24 |
+| 144 | La seed                                      | medium     | 2025-05-25 |
