@@ -1337,5 +1337,14 @@
     "completedOn": "2025-05-25 17:00:00 UTC",
     "updatedOn": "2025-05-25 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 145,
+    "slug": "#145-robot-de-vuela-al-origen",
+    "name": "Robot de vuela al origen",
+    "difficulty": "easy",
+    "completedOn": "2025-05-26 17:00:00 UTC",
+    "updatedOn": "2025-05-26 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

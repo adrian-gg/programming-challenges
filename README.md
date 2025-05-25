@@ -147,3 +147,4 @@
 | 142 | Globos reventados                            | hard       | 2025-05-23 |
 | 143 | Game of life                                 | medium     | 2025-05-24 |
 | 144 | La seed                                      | medium     | 2025-05-25 |
+| 145 | Robot de vuela al origen                     | easy       | 2025-05-26 |
