@@ -1346,5 +1346,14 @@
     "completedOn": "2025-05-26 17:00:00 UTC",
     "updatedOn": "2025-05-26 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 146,
+    "slug": "#146-color-complementario",
+    "name": "Color complementario",
+    "difficulty": "easy",
+    "completedOn": "2025-05-27 17:00:00 UTC",
+    "updatedOn": "2025-05-27 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
