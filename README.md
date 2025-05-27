@@ -149,3 +149,4 @@
 | 144 | La seed                                      | medium     | 2025-05-25 |
 | 145 | Robot de vuela al origen                     | easy       | 2025-05-26 |
 | 146 | Color complementario                         | easy       | 2025-05-27 |
+| 147 | Pares de palíndromos                         | hard       | 2025-05-28 |

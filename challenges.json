@@ -1355,5 +1355,14 @@
     "completedOn": "2025-05-27 17:00:00 UTC",
     "updatedOn": "2025-05-27 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 147,
+    "slug": "#147-pares-de-palintromos",
+    "name": "Pares de palíndromos",
+    "difficulty": "hard",
+    "completedOn": "2025-05-28 17:00:00 UTC",
+    "updatedOn": "2025-05-28 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
