@@ -1364,5 +1364,14 @@
     "completedOn": "2025-05-28 17:00:00 UTC",
     "updatedOn": "2025-05-28 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 148,
+    "slug": "#148-validador-de-sudokus",
+    "name": "Validador de sudokus",
+    "difficulty": "medium",
+    "completedOn": "2025-05-29 17:00:00 UTC",
+    "updatedOn": "2025-05-29 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
