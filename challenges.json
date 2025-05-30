@@ -1373,5 +1373,14 @@
     "completedOn": "2025-05-29 17:00:00 UTC",
     "updatedOn": "2025-05-29 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 149,
+    "slug": "#149-prefijo-mas-largo",
+    "name": "Prefijo más largo",
+    "difficulty": "easy",
+    "completedOn": "2025-05-30 17:00:00 UTC",
+    "updatedOn": "2025-05-30 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
