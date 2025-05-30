@@ -152,3 +152,4 @@
 | 147 | Pares de palíndromos                         | hard       | 2025-05-28 |
 | 148 | Validador de sudokus                         | medium     | 2025-05-29 |
 | 149 | Prefijo más largo                            | easy       | 2025-05-30 |
+| 150 | Autocruce                                    | hard       | 2025-05-31 |
