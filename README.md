@@ -155,3 +155,4 @@
 | 150 | Autocruce                                    | hard       | 2025-05-31 |
 | 151 | Jugando a saltar                             | medium     | 2025-06-01 |
 | 152 | Primer bit fijado                            | easy       | 2025-06-02 |
+| 153 | Contando anagramas                           | hard       | 2025-06-03 |

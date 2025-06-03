@@ -1409,5 +1409,14 @@
     "completedOn": "2025-06-02 17:00:00 UTC",
     "updatedOn": "2025-06-02 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 153,
+    "slug": "#153-contando-anagramas",
+    "name": "Contando anagramas",
+    "difficulty": "hard",
+    "completedOn": "2025-06-03 17:00:00 UTC",
+    "updatedOn": "2025-06-03 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
