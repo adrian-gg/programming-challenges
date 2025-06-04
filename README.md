@@ -157,3 +157,4 @@
 | 152 | Primer bit fijado                                     | easy       | 2025-06-02 |
 | 153 | Contando anagramas                                    | hard       | 2025-06-03 |
 | 154 | Recuento de subcadenas con caracteres de frecuencia K | medium     | 2025-06-04 |
+| 155 | Random                                                | easy       | 2025-06-05 |
