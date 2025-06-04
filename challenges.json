@@ -1418,5 +1418,14 @@
     "completedOn": "2025-06-03 17:00:00 UTC",
     "updatedOn": "2025-06-03 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 154,
+    "slug": "#154-recuento-de-dubcadenas-con-caracteres-de-frecuencia-k",
+    "name": "Recuento de subcadenas con caracteres de frecuencia K",
+    "difficulty": "medium",
+    "completedOn": "2025-06-04 17:00:00 UTC",
+    "updatedOn": "2025-06-04 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
