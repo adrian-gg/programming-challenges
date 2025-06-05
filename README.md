@@ -158,3 +158,4 @@
 | 153 | Contando anagramas                                    | hard       | 2025-06-03 |
 | 154 | Recuento de subcadenas con caracteres de frecuencia K | medium     | 2025-06-04 |
 | 155 | Random                                                | easy       | 2025-06-05 |
+| 156 | Random 2                                              | easy       | 2025-06-06 |
