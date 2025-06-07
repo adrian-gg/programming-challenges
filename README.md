@@ -160,3 +160,4 @@
 | 155 | Random                                                | easy       | 2025-06-05 |
 | 156 | Random 2                                              | easy       | 2025-06-06 |
 | 157 | Random 3                                              | easy       | 2025-06-07 |
+| 158 | Calendario                                            | medium     | 2025-06-08 |
