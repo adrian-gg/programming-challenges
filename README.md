@@ -161,3 +161,4 @@
 | 156 | Random 2                                              | easy       | 2025-06-06 |
 | 157 | Random 3                                              | easy       | 2025-06-07 |
 | 158 | Calendario                                            | medium     | 2025-06-08 |
+| 159 | Motor de plantilla                                    | medium     | 2025-06-09 |

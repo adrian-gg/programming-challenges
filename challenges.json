@@ -1463,5 +1463,14 @@
     "completedOn": "2025-06-08 17:00:00 UTC",
     "updatedOn": "2025-06-08 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 159,
+    "slug": "#159-motor-de-plantilla",
+    "name": "Motor de plantilla",
+    "difficulty": "medium",
+    "completedOn": "2025-06-09 17:00:00 UTC",
+    "updatedOn": "2025-06-09 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
