@@ -17,7 +17,7 @@ function caesarCipher(text, shift, decrypt = false) {
     .split("")
     .map((char) => {
       const indexChar = chars.indexOf(char)
-      indexChar >= 0 ? chars[(indexChar + shift) % chars.length] : char
+      return indexChar >= 0 ? chars[(indexChar + shift) % chars.length] : char
     })
     .join("")
 
