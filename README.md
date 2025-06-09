@@ -162,3 +162,4 @@
 | 157 | Random 3                                              | easy       | 2025-06-07 |
 | 158 | Calendario                                            | medium     | 2025-06-08 |
 | 159 | Motor de plantilla                                    | medium     | 2025-06-09 |
+| 160 | Cifrado cesar 2                                       | easy       | 2025-06109 |
