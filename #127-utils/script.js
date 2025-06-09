@@ -7,9 +7,12 @@ export const toNormalize = (str) => {
   if (typeof str !== "string") return str
 
   return str
-    .toLowerCase()
+    .replace(/ñ/g, "#")
+    .replace(/Ñ/g, "%")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
+    .replace(/#/g, "ñ")
+    .replace(/%/g, "Ñ")
 }
 
 export const toCapitalize = (str) => {
