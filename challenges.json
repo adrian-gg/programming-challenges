@@ -1481,5 +1481,14 @@
     "completedOn": "2025-06-10 17:00:00 UTC",
     "updatedOn": "2025-06-10 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 161,
+    "slug": "#161-metodos",
+    "name": "Metodos",
+    "difficulty": "easy",
+    "completedOn": "2025-06-11 17:00:00 UTC",
+    "updatedOn": "2025-06-11 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
