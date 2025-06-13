@@ -165,3 +165,4 @@
 | 160 | Cifrado cesar 2                                       | easy       | 2025-06-10 |
 | 161 | Metodos                                               | easy       | 2025-06-11 |
 | 162 | Metodos 2                                             | easy       | 2025-06-12 |
+| 163 | Metodos 3                                             | medium     | 2025-06-13 |
