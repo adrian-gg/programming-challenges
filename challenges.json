@@ -1504,9 +1504,18 @@
     "id": 163,
     "slug": "#163-metodos-3",
     "name": "Metodos 3",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "completedOn": "2025-06-13 17:00:00 UTC",
     "updatedOn": "2025-06-13 17:00:00 UTC",
+    "tags": ["javascript"]
+  },
+  {
+    "id": 164,
+    "slug": "#164-metodos-4",
+    "name": "Metodos 4",
+    "difficulty": "medium",
+    "completedOn": "2025-06-14 17:00:00 UTC",
+    "updatedOn": "2025-06-14 17:00:00 UTC",
     "tags": ["javascript"]
   }
 ]

@@ -166,3 +166,4 @@
 | 161 | Metodos                                               | easy       | 2025-06-11 |
 | 162 | Metodos 2                                             | easy       | 2025-06-12 |
 | 163 | Metodos 3                                             | medium     | 2025-06-13 |
+| 164 | Metodos 4                                             | medium     | 2025-06-14 |
