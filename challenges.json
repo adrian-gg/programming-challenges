@@ -1517,5 +1517,14 @@
     "completedOn": "2025-06-14 17:00:00 UTC",
     "updatedOn": "2025-06-14 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 165,
+    "slug": "#165-metodos-5",
+    "name": "Metodos 5",
+    "difficulty": "easy",
+    "completedOn": "2025-06-15 17:00:00 UTC",
+    "updatedOn": "2025-06-15 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
