@@ -1526,5 +1526,14 @@
     "completedOn": "2025-06-15 17:00:00 UTC",
     "updatedOn": "2025-06-15 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 166,
+    "slug": "#166-metodos-6",
+    "name": "Metodos 6",
+    "difficulty": "medium",
+    "completedOn": "2025-06-16 17:00:00 UTC",
+    "updatedOn": "2025-06-16 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
