@@ -1544,5 +1544,14 @@
     "completedOn": "2025-06-17 17:00:00 UTC",
     "updatedOn": "2025-06-17 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 168,
+    "slug": "#168-metodos-8",
+    "name": "Metodos 8",
+    "difficulty": "easy",
+    "completedOn": "2025-06-18 17:00:00 UTC",
+    "updatedOn": "2025-06-18 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
