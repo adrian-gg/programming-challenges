@@ -172,3 +172,5 @@
 | 167 | Metodos 7                                             | medium     | 2025-06-17 |
 | 168 | Metodos 8                                             | easy       | 2025-06-18 |
 | 169 | Metodos 9                                             | easy       | 2025-06-19 |
+| 170 | El más pequeño                                        | easy       | 2025-06-20 |
+| 171 | Rows y Cols                                           | hard       | 2025-06-21 |

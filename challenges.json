@@ -1562,5 +1562,23 @@
     "completedOn": "2025-06-19 17:00:00 UTC",
     "updatedOn": "2025-06-19 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 170,
+    "slug": "#170-el-mas-pequeño",
+    "name": "El más pequeño",
+    "difficulty": "easy",
+    "completedOn": "2025-06-20 17:00:00 UTC",
+    "updatedOn": "2025-06-20 17:00:00 UTC",
+    "tags": ["javascript"]
+  },
+  {
+    "id": 171,
+    "slug": "#171-rows-y-cols",
+    "name": "Rows y Cols",
+    "difficulty": "hard",
+    "completedOn": "2025-06-21 17:00:00 UTC",
+    "updatedOn": "2025-06-21 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
