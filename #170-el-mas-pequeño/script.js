@@ -1,52 +1,20 @@
-function maxEqualRowsAfterFlips(matrix) {
-  const patternCounts = new Map()
+function getSmallestStringManualSort(s) {
+  const arrS = s.split("").map(Number)
+  const n = arrS.length
 
-  for (let i = 0; i < matrix.length; i++) {
-    const currentRow = matrix[i]
-    let normalizedRow = []
-
-    if (currentRow[0] === 1) {
-      for (let j = 0; j < currentRow.length; j++) {
-        normalizedRow.push(currentRow[j] === 0 ? 1 : 0)
+  for (let i = 0; i < n - 1; i++) {
+    for (let j = i + 1; j < n; j++) {
+      if (arrS[i] > arrS[j]) {
+        let temp = arrS[i]
+        arrS[i] = arrS[j]
+        arrS[j] = temp
       }
-    } else {
-      normalizedRow = [...currentRow]
-    }
-
-    const patternString = normalizedRow.join("")
-
-    patternCounts.set(
-      patternString,
-      (patternCounts.get(patternString) || 0) + 1
-    )
-  }
-
-  let maxRows = 0
-  for (const count of patternCounts.values()) {
-    if (count > maxRows) {
-      maxRows = count
     }
   }
-
-  return maxRows
+  return arrS.join("")
 }
 
-console.log(
-  maxEqualRowsAfterFlips([
-    [0, 1],
-    [1, 1],
-  ])
-) //1
-console.log(
-  maxEqualRowsAfterFlips([
-    [0, 1],
-    [1, 0],
-  ])
-) //2
-console.log(
-  maxEqualRowsAfterFlips([
-    [0, 0, 0],
-    [0, 0, 1],
-    [1, 1, 0],
-  ])
-) //2
+console.log(getSmallestStringManualSort("321")) // 123
+console.log(getSmallestStringManualSort("934")) // 349
+console.log(getSmallestStringManualSort("45320")) // 02345
+console.log(getSmallestStringManualSort("021")) // 012
