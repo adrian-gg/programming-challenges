@@ -1580,5 +1580,14 @@
     "completedOn": "2025-06-21 17:00:00 UTC",
     "updatedOn": "2025-06-21 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 172,
+    "slug": "#172-programacion-de-dos-ciudades",
+    "name": "Programación de dos ciudades",
+    "difficulty": "medium",
+    "completedOn": "2025-06-22 17:00:00 UTC",
+    "updatedOn": "2025-06-22 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

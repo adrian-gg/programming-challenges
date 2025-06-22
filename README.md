@@ -174,3 +174,4 @@
 | 169 | Metodos 9                                             | easy       | 2025-06-19 |
 | 170 | El más pequeño                                        | easy       | 2025-06-20 |
 | 171 | Rows y Cols                                           | hard       | 2025-06-21 |
+| 172 | Programación de dos ciudades                          | medium     | 2025-06-22 |
