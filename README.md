@@ -175,3 +175,4 @@
 | 170 | El más pequeño                                        | easy       | 2025-06-20 |
 | 171 | Rows y Cols                                           | hard       | 2025-06-21 |
 | 172 | Programación de dos ciudades                          | medium     | 2025-06-22 |
+| 173 | Walking Robot Simulation                              | medium     | 2025-06-23 |
