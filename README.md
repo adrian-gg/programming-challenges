@@ -176,3 +176,4 @@
 | 171 | Rows y Cols                                           | hard       | 2025-06-21 |
 | 172 | Programación de dos ciudades                          | medium     | 2025-06-22 |
 | 173 | Walking Robot Simulation                              | medium     | 2025-06-23 |
+| 174 | Walking Robot Simulation 2                            | medium     | 2025-06-24 |
