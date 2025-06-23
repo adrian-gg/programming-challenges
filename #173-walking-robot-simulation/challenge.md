@@ -22,8 +22,6 @@ Notas:
 - Sur significa dirección -Y.
 - Oeste significa dirección -X.
 
-Traducción realizada con la versión gratuita del traductor DeepL.com
-
 Ejemplo 1:
 Input: commands = [4,-1,3], obstacles = []
 Output: 25
