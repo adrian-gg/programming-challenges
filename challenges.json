@@ -1607,5 +1607,14 @@
     "completedOn": "2025-06-24 17:00:00 UTC",
     "updatedOn": "2025-06-24 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 175,
+    "slug": "#175-cadenas-semejantes",
+    "name": "Cadenas semejantes",
+    "difficulty": "medium",
+    "completedOn": "2025-06-25 17:00:00 UTC",
+    "updatedOn": "2025-06-25 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
