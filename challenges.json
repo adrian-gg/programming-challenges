@@ -1616,5 +1616,14 @@
     "completedOn": "2025-06-25 17:00:00 UTC",
     "updatedOn": "2025-06-25 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 176,
+    "slug": "#176-spam",
+    "name": "Spam",
+    "difficulty": "medium",
+    "completedOn": "2025-06-26 17:00:00 UTC",
+    "updatedOn": "2025-06-26 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

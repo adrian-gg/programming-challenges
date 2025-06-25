@@ -178,3 +178,4 @@
 | 173 | Walking Robot Simulation                              | medium     | 2025-06-23 |
 | 174 | Walking Robot Simulation 2                            | medium     | 2025-06-24 |
 | 175 | Cadenas semejantes                                    | medium     | 2025-06-25 |
+| 176 | Spam                                                  | medium     | 2025-06-26 |
