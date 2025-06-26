@@ -179,3 +179,4 @@
 | 174 | Walking Robot Simulation 2                            | medium     | 2025-06-24 |
 | 175 | Cadenas semejantes                                    | medium     | 2025-06-25 |
 | 176 | Spam                                                  | medium     | 2025-06-26 |
+| 177 | Fusionar por suma de valores                          | easy       | 2025-06-27 |

@@ -1625,5 +1625,14 @@
     "completedOn": "2025-06-26 17:00:00 UTC",
     "updatedOn": "2025-06-26 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 177,
+    "slug": "#177-fusionar-por-suma-de-valores",
+    "name": "Fusionar por suma de valores",
+    "difficulty": "easy",
+    "completedOn": "2025-06-27 17:00:00 UTC",
+    "updatedOn": "2025-06-27 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
