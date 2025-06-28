@@ -180,3 +180,4 @@
 | 175 | Cadenas semejantes                                    | medium     | 2025-06-25 |
 | 176 | Spam                                                  | medium     | 2025-06-26 |
 | 177 | Fusionar por suma de valores                          | easy       | 2025-06-27 |
+| 178 | Carácteres especiales                                 | easy       | 2025-06-28 |

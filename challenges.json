@@ -1634,5 +1634,14 @@
     "completedOn": "2025-06-27 17:00:00 UTC",
     "updatedOn": "2025-06-27 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 178,
+    "slug": "#178-caracteres-especiales",
+    "name": "Carácteres especiales",
+    "difficulty": "easy",
+    "completedOn": "2025-06-28 17:00:00 UTC",
+    "updatedOn": "2025-06-28 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
