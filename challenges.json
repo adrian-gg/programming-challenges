@@ -1648,9 +1648,18 @@
     "id": 179,
     "slug": "#179-caracteres-especiales-2",
     "name": "Carácteres especiales 2",
-    "difficulty": "easy",
+    "difficulty": "medium",
     "completedOn": "2025-06-29 17:00:00 UTC",
     "updatedOn": "2025-06-29 17:00:00 UTC",
+    "tags": ["javascript"]
+  },
+  {
+    "id": 180,
+    "slug": "#180-caracteres-especiales-3",
+    "name": "Carácteres especiales 3",
+    "difficulty": "hard",
+    "completedOn": "2025-06-30 17:00:00 UTC",
+    "updatedOn": "2025-06-30 17:00:00 UTC",
     "tags": ["javascript"]
   }
 ]
