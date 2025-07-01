@@ -1661,5 +1661,14 @@
     "completedOn": "2025-06-30 17:00:00 UTC",
     "updatedOn": "2025-06-30 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 181,
+    "slug": "#181-walking-robot-simulation-3",
+    "name": "Walking robot simulation 3",
+    "difficulty": "medium",
+    "completedOn": "2025-07-01 17:00:00 UTC",
+    "updatedOn": "2025-07-01 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
