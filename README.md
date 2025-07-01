@@ -184,3 +184,4 @@
 | 179 | Carácteres especiales 2                               | medium     | 2025-06-29 |
 | 180 | Carácteres especiales 3                               | hard       | 2025-06-30 |
 | 181 | Walking Robot Simulation 3                            | medium     | 2025-07-01 |
+| 182 | <?>                                                   | medium     | 2025-07-02 |
