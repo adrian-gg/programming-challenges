@@ -47,21 +47,41 @@ export const groupOf = (array, groupSize) => {
   return arr
 }
 
-export const rotate = (array) => {
-  if (!Array.isArray(array)) return array
+export const rotate = (matrix, deg = 1) => {
+  if (!Array.isArray(matrix) || deg <= 0) return matrix
 
-  const arr = Array.from({ length: array[0].length }, () => [])
+  let res = matrix
+  deg = deg % 4
 
-  for (let i = array.length - 1; i >= 0; i--) {
-    const row = array[i]
+  while (deg > 0) {
+    const arr = Array.from({ length: res[0].length }, () => [])
 
-    for (let j = 0; j < row.length; j++) {
-      const num = row[j]
-      arr[j].push(num)
+    for (let i = 0; i < res.length; i++) {
+      const row = res[i]
+
+      for (let j = 0; j < row.length; j++) {
+        const num = row[j]
+        arr[j].unshift(num)
+      }
     }
+
+    res = arr
+    deg -= 1
   }
 
-  return arr
+  return res
+}
+
+export const transpose = (matrix) => {
+  if (matrix.length === 0 || matrix[0].length === 0) {
+    return []
+  }
+  return Array.from({ length: matrix[0].length }, (_, colIndex) =>
+    Array.from(
+      { length: matrix.length },
+      (_, rowIndex) => matrix[rowIndex][colIndex]
+    )
+  )
 }
 
 export const snail = (array, rowsCount, colsCount) => {
