@@ -1679,5 +1679,14 @@
     "completedOn": "2025-07-02 17:00:00 UTC",
     "updatedOn": "2025-07-02 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 183,
+    "slug": "#183-nonograma",
+    "name": "Nonograma",
+    "difficulty": "medium",
+    "completedOn": "2025-07-03 17:00:00 UTC",
+    "updatedOn": "2025-07-03 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
