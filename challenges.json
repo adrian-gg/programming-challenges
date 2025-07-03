@@ -1688,5 +1688,14 @@
     "completedOn": "2025-07-03 17:00:00 UTC",
     "updatedOn": "2025-07-03 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 184,
+    "slug": "#184-cuadrado-magico",
+    "name": "Cuadrado mágico",
+    "difficulty": "hard",
+    "completedOn": "2025-07-04 17:00:00 UTC",
+    "updatedOn": "2025-07-04 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
