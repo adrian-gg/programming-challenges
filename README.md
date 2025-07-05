@@ -187,3 +187,4 @@
 | 182 | <?>                                                   | medium     | 2025-07-02 |
 | 183 | Nonograma                                             | medium     | 2025-07-03 |
 | 184 | Cuadrado mágico                                       | hard       | 2025-07-04 |
+| 185 | Cuadrado mágico 2                                     | hard       | 2025-07-05 |
