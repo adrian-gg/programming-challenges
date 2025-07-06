@@ -1706,5 +1706,14 @@
     "completedOn": "2025-07-05 17:00:00 UTC",
     "updatedOn": "2025-07-05 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 186,
+    "slug": "#186-circulo",
+    "name": "Circulo",
+    "difficulty": "medium",
+    "completedOn": "2025-07-06 17:00:00 UTC",
+    "updatedOn": "2025-07-06 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
