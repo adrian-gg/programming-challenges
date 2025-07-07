@@ -2,6 +2,17 @@
 export const getRandomNumber = (max, min = 0) =>
   Math.floor(Math.random() * (max - min + 1)) + min
 
+export const binaryToDecimal = (binary) => {
+  if (
+    typeof binary !== "string" ||
+    binary === "" ||
+    binary.match(/[^01]/g) !== null
+  )
+    return binary
+
+  return parseInt(binary, 2)
+}
+
 //strings
 export const toNormalize = (str) => {
   if (typeof str !== "string") return str
