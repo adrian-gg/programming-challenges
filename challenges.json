@@ -1724,5 +1724,14 @@
     "completedOn": "2025-07-07 17:00:00 UTC",
     "updatedOn": "2025-07-07 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 188,
+    "slug": "#188-rows-y-cols-2",
+    "name": "Rows y Cols 2",
+    "difficulty": "medium",
+    "completedOn": "2025-07-08 17:00:00 UTC",
+    "updatedOn": "2025-07-08 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

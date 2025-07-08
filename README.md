@@ -190,3 +190,4 @@
 | 185 | Cuadrado mágico 2                                     | hard       | 2025-07-05 |
 | 186 | Circulo                                               | medium     | 2025-07-06 |
 | 187 | Circulo 2                                             | medium     | 2025-07-07 |
+| 188 | Rows y Cols 2                                         | medium     | 2025-07-08 |
