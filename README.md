@@ -191,3 +191,4 @@
 | 186 | Circulo                                               | medium     | 2025-07-06 |
 | 187 | Circulo 2                                             | medium     | 2025-07-07 |
 | 188 | Rows y Cols 2                                         | medium     | 2025-07-08 |
+| 189 | Pixelart                                              | medium     | 2025-07-09 |

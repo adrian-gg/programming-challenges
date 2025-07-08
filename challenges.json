@@ -1733,5 +1733,14 @@
     "completedOn": "2025-07-08 17:00:00 UTC",
     "updatedOn": "2025-07-08 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 189,
+    "slug": "#189-pixelart",
+    "name": "Pixelart",
+    "difficulty": "medium",
+    "completedOn": "2025-07-09 17:00:00 UTC",
+    "updatedOn": "2025-07-09 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
