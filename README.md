@@ -192,3 +192,4 @@
 | 187 | Circulo 2                                             | medium     | 2025-07-07 |
 | 188 | Rows y Cols 2                                         | medium     | 2025-07-08 |
 | 189 | Pixelart                                              | medium     | 2025-07-09 |
+| 190 | Embaldosando rectángulos                              | hard       | 2025-07-10 |

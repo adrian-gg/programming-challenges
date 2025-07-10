@@ -1742,5 +1742,14 @@
     "completedOn": "2025-07-09 17:00:00 UTC",
     "updatedOn": "2025-07-09 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 190,
+    "slug": "#190-embaldosando-rectangulos",
+    "name": "Embaldosando rectángulos",
+    "difficulty": "hard",
+    "completedOn": "2025-07-10 17:00:00 UTC",
+    "updatedOn": "2025-07-10 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
