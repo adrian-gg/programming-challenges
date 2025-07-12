@@ -1760,5 +1760,14 @@
     "completedOn": "2025-07-11 17:00:00 UTC",
     "updatedOn": "2025-07-11 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 192,
+    "slug": "#192-composicion-de-funciones",
+    "name": "Composición de funciones",
+    "difficulty": "easy",
+    "completedOn": "2025-07-12 17:00:00 UTC",
+    "updatedOn": "2025-07-12 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
