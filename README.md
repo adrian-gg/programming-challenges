@@ -196,3 +196,4 @@
 | 191 | Subsecuencia más larga                                | easy       | 2025-07-11 |
 | 192 | Composición de funciones                              | easy       | 2025-07-12 |
 | 193 | Mi jardin                                             | medium     | 2025-07-13 |
+| 194 | Busca y reemplaza                                     | medium     | 2025-07-14 |
