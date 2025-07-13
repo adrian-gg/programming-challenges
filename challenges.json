@@ -1769,5 +1769,14 @@
     "completedOn": "2025-07-12 17:00:00 UTC",
     "updatedOn": "2025-07-12 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 193,
+    "slug": "#193-mi-jardin",
+    "name": "Mi jardin",
+    "difficulty": "medium",
+    "completedOn": "2025-07-13 17:00:00 UTC",
+    "updatedOn": "2025-07-13 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

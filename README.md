@@ -195,3 +195,4 @@
 | 190 | Embaldosando rectángulos                              | hard       | 2025-07-10 |
 | 191 | Subsecuencia más larga                                | easy       | 2025-07-11 |
 | 192 | Composición de funciones                              | easy       | 2025-07-12 |
+| 193 | Mi jardin                                             | medium     | 2025-07-13 |
