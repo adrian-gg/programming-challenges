@@ -1787,5 +1787,14 @@
     "completedOn": "2025-07-14 17:00:00 UTC",
     "updatedOn": "2025-07-14 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 195,
+    "slug": "#195-subsecuencia-mas-larga-2",
+    "name": "Subsecuencia más larga",
+    "difficulty": "medium",
+    "completedOn": "2025-07-15 17:00:00 UTC",
+    "updatedOn": "2025-07-15 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
