@@ -1796,5 +1796,14 @@
     "completedOn": "2025-07-15 17:00:00 UTC",
     "updatedOn": "2025-07-15 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 196,
+    "slug": "#196-de-numero-a-texto",
+    "name": "De número a texto",
+    "difficulty": "medium",
+    "completedOn": "2025-07-16 17:00:00 UTC",
+    "updatedOn": "2025-07-16 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
