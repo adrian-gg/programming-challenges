@@ -199,3 +199,4 @@
 | 194 | Busca y reemplaza                                     | medium     | 2025-07-14 |
 | 195 | Subsecuencia más larga 2                              | medium     | 2025-07-15 |
 | 196 | De número a texto                                     | medium     | 2025-07-16 |
+| 197 | De texto a número                                     | hard       | 2025-07-17 |
