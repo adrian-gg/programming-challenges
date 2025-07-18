@@ -1814,5 +1814,14 @@
     "completedOn": "2025-07-17 17:00:00 UTC",
     "updatedOn": "2025-07-17 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 198,
+    "slug": "#198-la-cadena-pequeña-mas-bonita",
+    "name": "La cadena pequeña más bonita",
+    "difficulty": "hard",
+    "completedOn": "2025-07-18 17:00:00 UTC",
+    "updatedOn": "2025-07-18 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]

@@ -200,3 +200,4 @@
 | 195 | Subsecuencia más larga 2                              | medium     | 2025-07-15 |
 | 196 | De número a texto                                     | medium     | 2025-07-16 |
 | 197 | De texto a número                                     | hard       | 2025-07-17 |
+| 198 | La cadena pequeña más bonita                          | hard       | 2025-07-18 |
