@@ -201,3 +201,4 @@
 | 196 | De número a texto                                     | medium     | 2025-07-16 |
 | 197 | De texto a número                                     | hard       | 2025-07-17 |
 | 198 | La cadena pequeña más bonita                          | hard       | 2025-07-18 |
+| 199 | Separando duplicados                                  | medium     | 2025-07-19 |
