@@ -1832,5 +1832,14 @@
     "completedOn": "2025-07-19 17:00:00 UTC",
     "updatedOn": "2025-07-19 17:00:00 UTC",
     "tags": ["javascript"]
+  },
+  {
+    "id": 200,
+    "slug": "#200-nims",
+    "name": "Nim",
+    "difficulty": "easy",
+    "completedOn": "2025-07-20 17:00:00 UTC",
+    "updatedOn": "2025-07-20 17:00:00 UTC",
+    "tags": ["javascript"]
   }
 ]
